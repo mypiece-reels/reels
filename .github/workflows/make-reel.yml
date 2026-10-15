@@ -1,0 +1,72 @@
+name: make-reel
+
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        description: "動画の識別名(商品ID)"
+        required: true
+      image1:
+        required: true
+      image2:
+        required: true
+      image3:
+        required: true
+      text1:
+        required: true
+      text2:
+        required: true
+      text3:
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 準備(日本語フォント)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-noto-cjk
+
+      - name: 画像をダウンロード
+        env:
+          I1: ${{ inputs.image1 }}
+          I2: ${{ inputs.image2 }}
+          I3: ${{ inputs.image3 }}
+        run: |
+          curl -fsSL --retry 3 -o img1.jpg "$I1"
+          curl -fsSL --retry 3 -o img2.jpg "$I2"
+          curl -fsSL --retry 3 -o img3.jpg "$I3"
+
+      - name: 動画を作る
+        env:
+          T1: ${{ inputs.text1 }}
+          T2: ${{ inputs.text2 }}
+          T3: ${{ inputs.text3 }}
+        run: |
+          FONT="$(fc-match -f '%{file}' 'Noto Sans CJK JP:bold')"
+          i=1
+          ARGS=()
+          FILTER=""
+          for T in "$T1" "$T2" "$T3"; do
+            printf '%s' "$T" > "t$i.txt"
+            N=${#T}; FS=$((760/(N>0?N:1))); [ $FS -gt 60 ] && FS=60; [ $FS -lt 28 ] && FS=28
+            ARGS+=(-i "img$i.jpg")
+            FILTER+="[$((i-1)):v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,zoompan=z='min(zoom+0.0008,1.12)':d=100:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=720x1280:fps=25,"
+            FILTER+="drawbox=x=0:y=ih*0.70:w=iw:h=ih*0.16:color=black@0.45:t=fill,"
+            FILTER+="drawtext=fontfile='$FONT':textfile=t$i.txt:fontsize=$FS:fontcolor=white:x=(w-text_w)/2:y=h*0.78-text_h/2,setsar=1[v$i];"
+            i=$((i+1))
+          done
+          ffmpeg -y -loglevel error "${ARGS[@]}" -filter_complex "${FILTER}[v1][v2][v3]concat=n=3:v=1:a=0,format=yuv420p[v]" -map "[v]" -r 25 -c:v libx264 -preset medium -crf 23 -movflags +faststart reel.mp4
+          ls -la reel.mp4
+
+      - name: 公開URLに保存
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ID: ${{ inputs.id }}
+        run: |
+          gh release create "reel-$ID" reel.mp4 --repo "$GITHUB_REPOSITORY" --title "reel-$ID" --notes "auto"
+          echo "https://github.com/$GITHUB_REPOSITORY/releases/download/reel-$ID/reel.mp4"
