@@ -26,6 +26,7 @@ jobs:
   build:
     runs-on: ubuntu-24.04
     steps:
+      - uses: actions/checkout@v4
       - name: 準備(動画ツールと日本語フォント)
         run: |
           sudo apt-get update -qq
@@ -63,10 +64,32 @@ jobs:
           ffmpeg -y -loglevel error "${ARGS[@]}" -filter_complex "${FILTER}[v1][v2][v3]concat=n=3:v=1:a=0,format=yuv420p[v]" -map "[v]" -r 25 -c:v libx264 -preset medium -crf 23 -movflags +faststart reel.mp4
           ls -la reel.mp4
 
-      - name: 公開URLに保存
+      - name: BGMを付ける
         env:
-          GH_TOKEN: ${{ github.token }}
           ID: ${{ inputs.id }}
         run: |
-          gh release create "reel-$ID" reel.mp4 --repo "$GITHUB_REPOSITORY" --title "reel-$ID" --notes "auto"
-          echo "https://github.com/$GITHUB_REPOSITORY/releases/download/reel-$ID/reel.mp4"
+          shopt -s nullglob
+          FILES=(bgm/*.mp3)
+          N=${#FILES[@]}
+          if [ "$N" -eq 0 ]; then echo "BGMなし"; exit 0; fi
+          NUM=$(echo "$ID" | tr -dc '0-9')
+          IDX=$(( 10#${NUM:-0} % N ))
+          BGM="${FILES[$IDX]}"
+          echo "使うBGM: $BGM ($N曲中)"
+          ffmpeg -y -loglevel error -i reel.mp4 -i "$BGM" -filter_complex "[1:a]silenceremove=start_periods=1:start_threshold=-50dB,atrim=0:12,asetpts=PTS-STARTPTS,loudnorm=I=-18:TP=-2:LRA=11,afade=t=in:st=0:d=0.5,afade=t=out:st=10:d=2,atrim=0:12[a]" -map 0:v -map "[a]" -c:v copy -c:a aac -b:a 128k -ar 44100 -shortest reel_bgm.mp4
+          mv reel_bgm.mp4 reel.mp4
+          ls -la reel.mp4
+
+      - name: 公開URLに保存
+        env:
+          ID: ${{ inputs.id }}
+        run: |
+          mkdir -p videos
+          cp reel.mp4 "videos/$ID.mp4"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add "videos/$ID.mp4"
+          git commit -m "video $ID"
+          git pull --rebase origin main
+          git push origin HEAD:main
+          echo "https://raw.githubusercontent.com/$GITHUB_REPOSITORY/main/videos/$ID.mp4"
