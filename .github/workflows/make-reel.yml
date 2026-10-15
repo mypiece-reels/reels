@@ -26,6 +26,7 @@ jobs:
   build:
     runs-on: ubuntu-24.04
     steps:
+      - uses: actions/checkout@v4
       - name: 準備(動画ツールと日本語フォント)
         run: |
           sudo apt-get update -qq
@@ -65,8 +66,14 @@ jobs:
 
       - name: 公開URLに保存
         env:
-          GH_TOKEN: ${{ github.token }}
           ID: ${{ inputs.id }}
         run: |
-          gh release create "reel-$ID" reel.mp4 --repo "$GITHUB_REPOSITORY" --title "reel-$ID" --notes "auto"
-          echo "https://github.com/$GITHUB_REPOSITORY/releases/download/reel-$ID/reel.mp4"
+          mkdir -p videos
+          cp reel.mp4 "videos/$ID.mp4"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add "videos/$ID.mp4"
+          git commit -m "video $ID"
+          git pull --rebase origin main
+          git push origin HEAD:main
+          echo "https://raw.githubusercontent.com/$GITHUB_REPOSITORY/main/videos/$ID.mp4"
