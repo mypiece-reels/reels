@@ -47,18 +47,37 @@ jobs:
           T1: ${{ inputs.text1 }}
           T2: ${{ inputs.text2 }}
           T3: ${{ inputs.text3 }}
+          LANG: C.UTF-8
         run: |
           FONT="$(fc-match -f '%{file}' 'Noto Sans CJK JP:bold')"
           i=1
           ARGS=()
           FILTER=""
+          # 1行目の文字色(1枚目=黄色の見出し、2枚目=白、3枚目=黄色の呼びかけ)
+          COLORS=("FFE14D" "FFFFFF" "FFE14D")
           for T in "$T1" "$T2" "$T3"; do
-            printf '%s' "$T" > "t$i.txt"
-            N=${#T}; FS=$((760/(N>0?N:1))); [ $FS -gt 60 ] && FS=60; [ $FS -lt 28 ] && FS=28
+            L1="${T%%$'\n'*}"
+            L2=""
+            if [[ "$T" == *$'\n'* ]]; then L2="${T#*$'\n'}"; fi
+            printf '%s' "$L1" > "t$i.a.txt"
+            printf '%s' "$L2" > "t$i.b.txt"
+            # 行ごとに、画面の幅に収まる最大の文字サイズにする(30〜64)
+            N1=${#L1}; N2=${#L2}
+            FA=$((640/(N1>0?N1:1))); [ $FA -gt 64 ] && FA=64; [ $FA -lt 30 ] && FA=30
+            FB=$((640/(N2>0?N2:1))); [ $FB -gt 64 ] && FB=64; [ $FB -lt 30 ] && FB=30
             ARGS+=(-i "img$i.jpg")
             FILTER+="[$((i-1)):v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,zoompan=z='min(zoom+0.0008,1.12)':d=100:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=720x1280:fps=25,"
-            FILTER+="drawbox=x=0:y=ih*0.70:w=iw:h=ih*0.16:color=black@0.45:t=fill,"
-            FILTER+="drawtext=fontfile='$FONT':textfile=t$i.txt:fontsize=$FS:fontcolor=white:x=(w-text_w)/2:y=h*0.78-text_h/2,setsar=1[v$i];"
+            # 文字が読みやすいよう、中央の帯をうすく暗くする
+            FILTER+="drawbox=x=0:y=ih*0.47:w=iw:h=ih*0.20:color=black@0.30:t=fill,"
+            C1="${COLORS[$((i-1))]}"
+            if [ -n "$L2" ]; then
+              TOT=$((FA+FB+14)); YA=$((730-TOT/2)); YB=$((YA+FA+14))
+              FILTER+="drawtext=fontfile='$FONT':textfile=t$i.a.txt:fontsize=$FA:fontcolor=0x$C1:borderw=4:bordercolor=black@0.9:x=(w-text_w)/2:y=$YA,"
+              FILTER+="drawtext=fontfile='$FONT':textfile=t$i.b.txt:fontsize=$FB:fontcolor=white:borderw=4:bordercolor=black@0.9:x=(w-text_w)/2:y=$YB,"
+            else
+              FILTER+="drawtext=fontfile='$FONT':textfile=t$i.a.txt:fontsize=$FA:fontcolor=0x$C1:borderw=4:bordercolor=black@0.9:x=(w-text_w)/2:y=h*0.57-text_h/2,"
+            fi
+            FILTER+="setsar=1[v$i];"
             i=$((i+1))
           done
           ffmpeg -y -loglevel error "${ARGS[@]}" -filter_complex "${FILTER}[v1][v2][v3]concat=n=3:v=1:a=0,format=yuv420p[v]" -map "[v]" -r 25 -c:v libx264 -preset medium -crf 23 -movflags +faststart reel.mp4
