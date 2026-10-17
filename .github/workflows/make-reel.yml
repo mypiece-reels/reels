@@ -18,6 +18,10 @@ on:
         required: true
       text3:
         required: true
+      text4:
+        description: "モデル情報(なければ空)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -47,6 +51,7 @@ jobs:
           T1: ${{ inputs.text1 }}
           T2: ${{ inputs.text2 }}
           T3: ${{ inputs.text3 }}
+          T4: ${{ inputs.text4 }}
           LANG: C.UTF-8
         run: |
           FONT="$(fc-match -f '%{file}' 'Noto Sans CJK JP:bold')"
@@ -76,6 +81,20 @@ jobs:
               FILTER+="drawtext=fontfile='$FONT':textfile=t$i.b.txt:fontsize=$FB:fontcolor=white:borderw=4:bordercolor=black@0.9:x=(w-text_w)/2:y=$YB,"
             else
               FILTER+="drawtext=fontfile='$FONT':textfile=t$i.a.txt:fontsize=$FA:fontcolor=0x$C1:borderw=4:bordercolor=black@0.9:x=(w-text_w)/2:y=h*0.57-text_h/2,"
+            fi
+            # 2枚目だけ、下の方にモデル情報(身長・体重・着用サイズ)を小さく入れる
+            if [ "$i" = "2" ] && [ -n "$T4" ]; then
+              M1="${T4%%$'\n'*}"
+              M2=""
+              if [[ "$T4" == *$'\n'* ]]; then M2="${T4#*$'\n'}"; fi
+              printf '%s' "$M1" > m1.txt
+              printf '%s' "$M2" > m2.txt
+              NM=${#M1}; FM=$((600/(NM>0?NM:1))); [ $FM -gt 36 ] && FM=36; [ $FM -lt 24 ] && FM=24
+              FILTER+="drawbox=x=0:y=ih*0.67:w=iw:h=ih*0.09:color=black@0.45:t=fill,"
+              FILTER+="drawtext=fontfile='$FONT':textfile=m1.txt:fontsize=$FM:fontcolor=white:borderw=3:bordercolor=black@0.9:x=(w-text_w)/2:y=h*0.67+h*0.09/2-$FM-2,"
+              if [ -n "$M2" ]; then
+                FILTER+="drawtext=fontfile='$FONT':textfile=m2.txt:fontsize=$((FM+4)):fontcolor=0xFFE14D:borderw=3:bordercolor=black@0.9:x=(w-text_w)/2:y=h*0.67+h*0.09/2+4,"
+              fi
             fi
             FILTER+="setsar=1[v$i];"
             i=$((i+1))
