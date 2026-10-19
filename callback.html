@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>my piece - Authorizing</title>
+<style>body{font-family:-apple-system,Segoe UI,sans-serif;max-width:640px;margin:3em auto;padding:0 1em;line-height:1.6}</style></head><body>
+<h1>Authorizing with TikTok…</h1><p id="msg">Please wait.</p>
+<script>
+const API='https://motohiro.app.n8n.cloud/webhook/tiktok-api';
+(async()=>{
+  const p=new URLSearchParams(location.search);
+  const msg=document.getElementById('msg');
+  if(p.get('error')){msg.textContent='Authorization was cancelled or failed: '+(p.get('error_description')||p.get('error'));return;}
+  const code=p.get('code'),state=p.get('state');
+  let saved=null;try{saved=sessionStorage.getItem('tt_state');}catch(_){}
+  if(!code){msg.textContent='No authorization code received.';return;}
+  if(saved&&state!==saved){msg.textContent='State mismatch. Please start again from the top page.';return;}
+  try{
+    const r=await fetch(API,{method:'POST',body:new URLSearchParams({action:'token',code})});
+    const j=await r.json();
+    if(!j.access_token){msg.textContent='Login failed: '+JSON.stringify(j);return;}
+    try{sessionStorage.setItem('tt_token',j.access_token);}catch(_){}
+    location.replace('post.html');
+  }catch(e){msg.textContent='Network error: '+e;}
+})();
+</script></body></html>

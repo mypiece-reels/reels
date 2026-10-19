@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>my piece - Post to TikTok</title>
+<style>
+body{font-family:-apple-system,Segoe UI,sans-serif;max-width:680px;margin:2em auto;padding:0 1em;line-height:1.5;color:#222}
+h1{font-size:1.5em} label{display:block;font-weight:600;margin-top:1.2em}
+input[type=text],select,textarea{width:100%;padding:.6em;border:1px solid #bbb;border-radius:6px;font-size:1em;box-sizing:border-box}
+.row{display:flex;gap:1.2em;flex-wrap:wrap;margin-top:.4em}.row label{font-weight:400;margin:0;display:flex;gap:.4em;align-items:center}
+.row label.off{color:#999}
+#creator{display:flex;gap:.8em;align-items:center;background:#f6f6f6;padding:.8em;border-radius:8px}
+#creator img{width:48px;height:48px;border-radius:50%}
+video{width:100%;max-width:320px;margin-top:.6em;border-radius:8px;background:#000}
+button{margin-top:1.5em;background:#fe2c55;color:#fff;border:0;border-radius:8px;padding:.9em 2em;font-size:1em;font-weight:700;cursor:pointer}
+button:disabled{background:#ccc;cursor:not-allowed}
+.note{font-size:.9em;color:#555}.err{color:#c00}.box{border:1px solid #ddd;border-radius:8px;padding:.8em;margin-top:.6em}
+</style></head><body>
+<h1>Post to TikTok</h1>
+<div id="login" hidden><p>You are not logged in. <a href="index.html">Login with TikTok</a></p></div>
+<div id="app" hidden>
+  <div id="creator"><img id="avatar" alt=""><div>Posting to: <b id="nick"></b></div></div>
+  <p class="note" id="cstatus"></p>
+
+  <label for="vurl">Video URL (hosted on our verified domain)</label>
+  <input type="text" id="vurl" placeholder="https://mypiece-reels.github.io/reels/videos/...">
+  <video id="preview" controls playsinline hidden></video>
+  <p class="note" id="vinfo"></p>
+
+  <label for="title">Title / caption (editable)</label>
+  <textarea id="title" rows="3" maxlength="2200" placeholder="Write a caption..."></textarea>
+
+  <label for="privacy">Who can view this video</label>
+  <select id="privacy"><option value="" selected disabled>Select privacy level…</option></select>
+
+  <label>Allow users to</label>
+  <div class="row">
+    <label id="lc"><input type="checkbox" id="comment"> Comment</label>
+    <label id="ld"><input type="checkbox" id="duet"> Duet</label>
+    <label id="ls"><input type="checkbox" id="stitch"> Stitch</label>
+  </div>
+
+  <label><span><input type="checkbox" id="disc"> Disclose video content</span></label>
+  <div class="note">Turn on to disclose that this video promotes goods or services in exchange for something of value.</div>
+  <div id="discbox" class="box" hidden>
+    <div class="row">
+      <label><input type="checkbox" id="own"> Your brand</label>
+      <label id="lbrand"><input type="checkbox" id="brand"> Branded content</label>
+    </div>
+    <p class="note" id="label-note"></p>
+  </div>
+
+  <p class="note" id="consent"></p>
+  <button id="post" disabled>Post</button>
+  <p id="result" class="note"></p>
+  <p class="note">After posting, processing may take a few minutes and the video may take that long to appear on your profile.</p>
+</div>
+<p class="note"><a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Service</a></p>
+<script>
+const API='https://motohiro.app.n8n.cloud/webhook/tiktok-api';
+const $=id=>document.getElementById(id);
+let token=null;try{token=sessionStorage.getItem('tt_token');}catch(_){}
+let creator=null,videoOk=false;
+async function api(action,data){
+  const r=await fetch(API,{method:'POST',body:new URLSearchParams({action,access_token:token,...(data||{})})});
+  return r.json();
+}
+const PRIV={PUBLIC_TO_EVERYONE:'Everyone',MUTUAL_FOLLOW_FRIENDS:'Friends',FOLLOWER_OF_CREATOR:'Followers',SELF_ONLY:'Only me'};
+function update(){
+  const disc=$('disc').checked;
+  $('discbox').hidden=!disc;
+  const brand=disc&&$('brand').checked, own=disc&&$('own').checked;
+  // branded content cannot be private
+  const selfOpt=[...$('privacy').options].find(o=>o.value==='SELF_ONLY');
+  if(selfOpt){selfOpt.disabled=brand;selfOpt.title=brand?'Branded content visibility cannot be set to private.':'';}
+  if(brand&&$('privacy').value==='SELF_ONLY'){$('privacy').value='';$('result').textContent='Branded content visibility cannot be set to private. Please choose another option.';}
+  $('label-note').textContent=brand?"Your photo/video will be labeled as 'Paid partnership'":(own?"Your photo/video will be labeled as 'Promotional content'":'');
+  let c='By posting, you agree to TikTok\'s <a href="https://www.tiktok.com/legal/page/global/music-usage-confirmation/en" target="_blank" rel="noopener">Music Usage Confirmation</a>.';
+  if(brand)c='By posting, you agree to TikTok\'s <a href="https://www.tiktok.com/legal/page/global/bc-policy/en" target="_blank" rel="noopener">Branded Content Policy</a> and <a href="https://www.tiktok.com/legal/page/global/music-usage-confirmation/en" target="_blank" rel="noopener">Music Usage Confirmation</a>.';
+  $('consent').innerHTML=c;
+  const discOk=!disc||own||brand;
+  const btn=$('post');
+  btn.disabled=!(videoOk&&$('privacy').value&&discOk&&creator);
+  btn.title=(!discOk)?'You need to indicate if your content promotes yourself, a third party, or both.':'';
+}
+['privacy','disc','own','brand'].forEach(i=>$(i).addEventListener('change',update));
+$('vurl').addEventListener('change',()=>{
+  const u=$('vurl').value.trim();videoOk=false;$('vinfo').textContent='';
+  if(!u){$('preview').hidden=true;update();return;}
+  const v=$('preview');v.src=u;v.hidden=false;
+  v.onloadedmetadata=()=>{
+    const max=creator&&creator.max_video_post_duration_sec;
+    if(max&&v.duration>max){$('vinfo').innerHTML='<span class="err">Video is longer than the maximum allowed ('+max+' sec).</span>';videoOk=false;}
+    else{$('vinfo').textContent='Duration: '+Math.round(v.duration)+' sec';videoOk=true;}
+    update();
+  };
+  v.onerror=()=>{$('vinfo').innerHTML='<span class="err">Could not load the video.</span>';videoOk=false;update();};
+});
+async function init(){
+  if(!token){$('login').hidden=false;return;}
+  $('app').hidden=false;
+  const j=await api('creator');
+  const d=j&&j.data;
+  if(!d||(j.error&&j.error.code&&j.error.code!=='ok')){
+    $('cstatus').innerHTML='<span class="err">Could not load creator info. Please log in again. '+JSON.stringify(j.error||j)+'</span>';
+    $('app').querySelectorAll('input,select,textarea,button').forEach(e=>e.disabled=true);return;
+  }
+  creator=d;$('nick').textContent=d.creator_nickname||d.creator_username||'';
+  if(d.creator_avatar_url)$('avatar').src=d.creator_avatar_url;
+  (d.privacy_level_options||[]).forEach(o=>{const op=document.createElement('option');op.value=o;op.textContent=PRIV[o]||o;$('privacy').appendChild(op);});
+  [['comment_disabled','comment','lc'],['duet_disabled','duet','ld'],['stitch_disabled','stitch','ls']].forEach(([k,i,l])=>{
+    if(d[k]){$(i).disabled=true;$(l).classList.add('off');$(l).title='Turned off in your TikTok app settings';}
+  });
+  update();
+}
+$('post').addEventListener('click',async()=>{
+  const btn=$('post');btn.disabled=true;$('result').textContent='Sending to TikTok…';
+  const disc=$('disc').checked;
+  const data={
+    video_url:$('vurl').value.trim(),title:$('title').value,privacy_level:$('privacy').value,
+    disable_comment:String(!$('comment').checked),disable_duet:String(!$('duet').checked),disable_stitch:String(!$('stitch').checked),
+    brand_content_toggle:String(disc&&$('brand').checked),brand_organic_toggle:String(disc&&$('own').checked)
+  };
+  const j=await api('post',data);
+  if(!j.data||!j.data.publish_id){$('result').innerHTML='<span class="err">Post failed: '+JSON.stringify(j.error||j)+'</span>';update();return;}
+  const id=j.data.publish_id;$('result').textContent='Submitted. Checking status…';
+  for(let i=0;i<30;i++){
+    await new Promise(r=>setTimeout(r,5000));
+    const s=await api('status',{publish_id:id});
+    const st=s.data&&s.data.status;
+    $('result').textContent='Status: '+(st||JSON.stringify(s));
+    if(st==='PUBLISH_COMPLETE'||st==='FAILED')break;
+  }
+  update();
+});
+init();
+</script></body></html>

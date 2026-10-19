@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>my piece - TikTok Publisher</title>
+<style>body{font-family:-apple-system,Segoe UI,sans-serif;max-width:640px;margin:3em auto;padding:0 1em;line-height:1.6;color:#222}
+.btn{display:inline-block;background:#fe2c55;color:#fff;padding:.8em 1.6em;border-radius:8px;text-decoration:none;font-weight:700}
+footer{margin-top:3em;font-size:.9em;color:#666}</style></head><body>
+<h1>my piece - TikTok Publisher</h1>
+<p>This web app lets the owner of the online shop "my piece" (<a href="https://stlogisapo.base.shop/">stlogisapo.base.shop</a>) publish the shop's own product videos to the shop's own TikTok account.</p>
+<p>Log in with TikTok to authorize the app, then choose a video, privacy level and interaction settings, and post.</p>
+<p><a class="btn" id="login" href="#">Login with TikTok</a></p>
+<footer><a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Service</a></footer>
+<script>
+const LOGIN='https://motohiro.app.n8n.cloud/webhook/tiktok-login';
+document.getElementById('login').addEventListener('click',e=>{
+  e.preventDefault();
+  const s=Math.random().toString(36).slice(2)+Date.now().toString(36);
+  try{sessionStorage.setItem('tt_state',s);}catch(_){}
+  location.href=LOGIN+'?state='+encodeURIComponent(s);
+});
+</script></body></html>
