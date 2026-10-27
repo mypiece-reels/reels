@@ -1,19 +1,20 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>my piece - TikTok Publisher</title>
-<style>body{font-family:-apple-system,Segoe UI,sans-serif;max-width:640px;margin:3em auto;padding:0 1em;line-height:1.6;color:#222}
-.btn{display:inline-block;background:#fe2c55;color:#fff;padding:.8em 1.6em;border-radius:8px;text-decoration:none;font-weight:700}
-footer{margin-top:3em;font-size:.9em;color:#666}</style></head><body>
-<h1>my piece - TikTok Publisher</h1>
-<p>This web app lets the owner of the online shop "my piece" (<a href="https://stlogisapo.base.shop/">stlogisapo.base.shop</a>) publish the shop's own product videos to the shop's own TikTok account.</p>
-<p>Log in with TikTok to authorize the app, then choose a video, privacy level and interaction settings, and post.</p>
-<p><a class="btn" id="login" href="#">Login with TikTok</a></p>
-<footer><a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Service</a></footer>
-<script>
-const LOGIN='https://motohiro.app.n8n.cloud/webhook/tiktok-login';
-document.getElementById('login').addEventListener('click',e=>{
-  e.preventDefault();
-  const s=Math.random().toString(36).slice(2)+Date.now().toString(36);
-  try{sessionStorage.setItem('tt_state',s);}catch(_){}
-  location.href=LOGIN+'?state='+encodeURIComponent(s);
-});
-</script></body></html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>my piece | 大人女性の大きめサイズ専門店</title>
+<link rel="icon" type="image/png" href="icon.png"><link rel="apple-touch-icon" href="icon.png">
+<meta name="description" content="my pieceは、大人女性のための大きめサイズ専門のオンラインショップです。">
+<style>body{font-family:-apple-system,"Hiragino Sans","Yu Gothic",sans-serif;max-width:760px;margin:0 auto;padding:0 1em;line-height:1.8;color:#222}
+header{text-align:center;padding:2.5em 0 1em}header img{width:96px;height:96px;border-radius:16px}
+h1{margin:.4em 0 0;font-size:1.6em}h2{border-left:5px solid #d6336c;padding-left:.6em;margin-top:2em;font-size:1.2em}
+.btn{display:inline-block;background:#d6336c;color:#fff;padding:.8em 1.8em;border-radius:8px;text-decoration:none;font-weight:700}
+table{border-collapse:collapse;width:100%}th,td{border:1px solid #ddd;padding:.5em .8em;text-align:left;vertical-align:top}th{background:#faf0f4;width:30%}
+footer{margin:3em 0 2em;font-size:.9em;color:#666;text-align:center}</style></head><body>
+<header><img src="icon.png" alt="my piece"><h1>my piece</h1><p>大人女性の大きめサイズ専門店</p><p><a class="btn" href="https://stlogisapo.base.shop/">ショップを見る</a></p></header>
+<h2>私たちについて</h2>
+<p>my pieceは、大きめサイズのお洋服を探している大人の女性のためのオンラインショップです。トレンドを取り入れたアウター、トップス、パンツなどを幅広く取り揃えています。</p>
+<h2>SNSでの商品紹介</h2>
+<p>当店の商品を紹介する動画を、Instagram・YouTube・Threads・X・TikTokで配信しています。当ウェブサイトは、当店の運営者が自社商品の紹介動画を当店のSNSアカウントへ投稿するために利用します。</p>
+<p><a href="publisher.html">動画投稿ツール(店舗運営者用)</a></p>
+<h2>運営情報</h2>
+<table><tr><th>ショップ名</th><td>my piece</td></tr><tr><th>販売サイト</th><td><a href="https://stlogisapo.base.shop/">https://stlogisapo.base.shop/</a></td></tr><tr><th>取扱商品</th><td>大きめサイズのレディースファッション</td></tr></table>
+<footer><a href="privacy.html">プライバシーポリシー</a> ・ <a href="terms.html">利用規約</a><p>&copy; my piece</p></footer>
+</body></html>
