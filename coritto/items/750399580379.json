@@ -1,0 +1,2628 @@
+{
+ "item_id": "750399580379",
+ "url": "https://item.taobao.com/item.htm?id=750399580379",
+ "ok": true,
+ "reason": "",
+ "title_cn": "秋冬毛呢百褶中裙女胖mm大码加长版高个子显瘦高腰半身裙a字冬裙",
+ "category": "女装/女士精品->半身裙",
+ "shop": "缘凤雅旗舰店",
+ "yuan": 88,
+ "weight_kg": 1.5,
+ "ship_yuan": 81,
+ "cost_yen": 4659,
+ "sale_yen": 7180,
+ "quantity": 21600,
+ "sku_list": [
+  {
+   "mp_skuId": 40623689351387,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291891,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01LcRXaH23jKq8QPO1N_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033925,
+     "value_name": "黑色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S 建议80-95斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689352411,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291904,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01LcRXaH23jKq8QPO1N_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033925,
+     "value_name": "黑色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M 建议95-110斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689353435,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291917,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01LcRXaH23jKq8QPO1N_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033925,
+     "value_name": "黑色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L 建议110-120斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689354459,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291930,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01LcRXaH23jKq8QPO1N_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033925,
+     "value_name": "黑色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL 建议120-140斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689355483,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291956,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01LcRXaH23jKq8QPO1N_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033925,
+     "value_name": "黑色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL 建议140-160斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689356507,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291865,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01LcRXaH23jKq8QPO1N_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033925,
+     "value_name": "黑色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL 建议160-180斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689357531,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291943,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01LcRXaH23jKq8QPO1N_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033925,
+     "value_name": "黑色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL 建议180-200斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689358555,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291969,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01LcRXaH23jKq8QPO1N_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033925,
+     "value_name": "黑色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL 建议200-230斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689359579,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291878,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01LcRXaH23jKq8QPO1N_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033925,
+     "value_name": "黑色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28128814,
+     "value_name": "6XL 建议230-260斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689360603,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291893,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01ytJiuC23jKq7tVI4O_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033927,
+     "value_name": "白色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S 建议80-95斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689361627,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291906,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01ytJiuC23jKq7tVI4O_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033927,
+     "value_name": "白色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M 建议95-110斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689362651,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291919,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01ytJiuC23jKq7tVI4O_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033927,
+     "value_name": "白色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L 建议110-120斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689363675,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291932,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01ytJiuC23jKq7tVI4O_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033927,
+     "value_name": "白色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL 建议120-140斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689364699,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291958,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01ytJiuC23jKq7tVI4O_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033927,
+     "value_name": "白色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL 建议140-160斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689365723,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291867,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01ytJiuC23jKq7tVI4O_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033927,
+     "value_name": "白色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL 建议160-180斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689366747,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291945,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01ytJiuC23jKq7tVI4O_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033927,
+     "value_name": "白色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL 建议180-200斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689367771,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291971,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01ytJiuC23jKq7tVI4O_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033927,
+     "value_name": "白色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL 建议200-230斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689368795,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291880,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01ytJiuC23jKq7tVI4O_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033927,
+     "value_name": "白色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28128814,
+     "value_name": "6XL 建议230-260斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689369819,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291894,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01goL68p23jKq2tL4aW_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033928,
+     "value_name": "灰色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S 建议80-95斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689370843,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291907,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01goL68p23jKq2tL4aW_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033928,
+     "value_name": "灰色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M 建议95-110斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689371867,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291920,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01goL68p23jKq2tL4aW_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033928,
+     "value_name": "灰色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L 建议110-120斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689372891,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291933,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01goL68p23jKq2tL4aW_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033928,
+     "value_name": "灰色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL 建议120-140斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689373915,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291959,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01goL68p23jKq2tL4aW_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033928,
+     "value_name": "灰色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL 建议140-160斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689374939,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291868,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01goL68p23jKq2tL4aW_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033928,
+     "value_name": "灰色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL 建议160-180斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689375963,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291946,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01goL68p23jKq2tL4aW_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033928,
+     "value_name": "灰色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL 建议180-200斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689376987,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291972,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01goL68p23jKq2tL4aW_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033928,
+     "value_name": "灰色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL 建议200-230斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689378011,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291881,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01goL68p23jKq2tL4aW_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033928,
+     "value_name": "灰色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28128814,
+     "value_name": "6XL 建议230-260斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689388251,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291892,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN016an9PA23jKq7Z9b0I_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033926,
+     "value_name": "咖色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S 建议80-95斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689389275,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291905,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN016an9PA23jKq7Z9b0I_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033926,
+     "value_name": "咖色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M 建议95-110斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689390299,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291918,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN016an9PA23jKq7Z9b0I_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033926,
+     "value_name": "咖色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L 建议110-120斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689391323,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291931,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN016an9PA23jKq7Z9b0I_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033926,
+     "value_name": "咖色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL 建议120-140斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689392347,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291957,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN016an9PA23jKq7Z9b0I_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033926,
+     "value_name": "咖色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL 建议140-160斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689393371,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291866,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN016an9PA23jKq7Z9b0I_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033926,
+     "value_name": "咖色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL 建议160-180斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689394395,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291944,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN016an9PA23jKq7Z9b0I_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033926,
+     "value_name": "咖色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL 建议180-200斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689395419,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291970,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN016an9PA23jKq7Z9b0I_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033926,
+     "value_name": "咖色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL 建议200-230斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689396443,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291879,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN016an9PA23jKq7Z9b0I_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033926,
+     "value_name": "咖色短裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28128814,
+     "value_name": "6XL 建议230-260斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689397467,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291895,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01QYAUD623jKq7xcK2T_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033929,
+     "value_name": "黑色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S 建议80-95斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689398491,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291908,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01QYAUD623jKq7xcK2T_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033929,
+     "value_name": "黑色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M 建议95-110斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689399515,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291921,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01QYAUD623jKq7xcK2T_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033929,
+     "value_name": "黑色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L 建议110-120斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689400539,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291934,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01QYAUD623jKq7xcK2T_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033929,
+     "value_name": "黑色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL 建议120-140斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689401563,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291960,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01QYAUD623jKq7xcK2T_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033929,
+     "value_name": "黑色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL 建议140-160斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689402587,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291869,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01QYAUD623jKq7xcK2T_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033929,
+     "value_name": "黑色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL 建议160-180斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689403611,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291947,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01QYAUD623jKq7xcK2T_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033929,
+     "value_name": "黑色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL 建议180-200斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689404635,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291973,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01QYAUD623jKq7xcK2T_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033929,
+     "value_name": "黑色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL 建议200-230斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689405659,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291882,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01QYAUD623jKq7xcK2T_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033929,
+     "value_name": "黑色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28128814,
+     "value_name": "6XL 建议230-260斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689406683,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291896,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01INoeiJ23jKq7EZdR4_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033930,
+     "value_name": "灰色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S 建议80-95斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689407707,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291909,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01INoeiJ23jKq7EZdR4_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033930,
+     "value_name": "灰色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M 建议95-110斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689408731,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291922,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01INoeiJ23jKq7EZdR4_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033930,
+     "value_name": "灰色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L 建议110-120斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689409755,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291935,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01INoeiJ23jKq7EZdR4_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033930,
+     "value_name": "灰色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL 建议120-140斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689410779,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291961,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01INoeiJ23jKq7EZdR4_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033930,
+     "value_name": "灰色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL 建议140-160斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689411803,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291870,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01INoeiJ23jKq7EZdR4_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033930,
+     "value_name": "灰色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL 建议160-180斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689412827,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291948,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01INoeiJ23jKq7EZdR4_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033930,
+     "value_name": "灰色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL 建议180-200斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689413851,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291974,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01INoeiJ23jKq7EZdR4_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033930,
+     "value_name": "灰色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL 建议200-230斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689414875,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291883,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01INoeiJ23jKq7EZdR4_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033930,
+     "value_name": "灰色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28128814,
+     "value_name": "6XL 建议230-260斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689415899,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291897,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01G3CN8Y23jKq7EbB5s_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033931,
+     "value_name": "白色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S 建议80-95斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689416923,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291910,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01G3CN8Y23jKq7EbB5s_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033931,
+     "value_name": "白色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M 建议95-110斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689417947,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291923,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01G3CN8Y23jKq7EbB5s_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033931,
+     "value_name": "白色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L 建议110-120斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689418971,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291936,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01G3CN8Y23jKq7EbB5s_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033931,
+     "value_name": "白色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL 建议120-140斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689419995,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291962,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01G3CN8Y23jKq7EbB5s_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033931,
+     "value_name": "白色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL 建议140-160斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689421019,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291871,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01G3CN8Y23jKq7EbB5s_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033931,
+     "value_name": "白色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL 建议160-180斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689422043,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291949,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01G3CN8Y23jKq7EbB5s_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033931,
+     "value_name": "白色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL 建议180-200斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689423067,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291975,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01G3CN8Y23jKq7EbB5s_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033931,
+     "value_name": "白色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL 建议200-230斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689424091,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291884,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01G3CN8Y23jKq7EbB5s_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033931,
+     "value_name": "白色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28128814,
+     "value_name": "6XL 建议230-260斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689425115,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291898,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN0158Ay0w23jKq7ZB8gb_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033932,
+     "value_name": "咖色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S 建议80-95斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689426139,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291911,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN0158Ay0w23jKq7ZB8gb_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033932,
+     "value_name": "咖色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M 建议95-110斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689427163,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291924,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN0158Ay0w23jKq7ZB8gb_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033932,
+     "value_name": "咖色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L 建议110-120斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689428187,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291937,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN0158Ay0w23jKq7ZB8gb_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033932,
+     "value_name": "咖色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL 建议120-140斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689429211,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291963,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN0158Ay0w23jKq7ZB8gb_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033932,
+     "value_name": "咖色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL 建议140-160斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689430235,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291872,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN0158Ay0w23jKq7ZB8gb_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033932,
+     "value_name": "咖色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL 建议160-180斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689431259,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291950,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN0158Ay0w23jKq7ZB8gb_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033932,
+     "value_name": "咖色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL 建议180-200斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689432283,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291976,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN0158Ay0w23jKq7ZB8gb_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033932,
+     "value_name": "咖色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL 建议200-230斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689433307,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291885,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN0158Ay0w23jKq7ZB8gb_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 40913033932,
+     "value_name": "咖色中裙【西装面料】四季款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28128814,
+     "value_name": "6XL 建议230-260斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689434331,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291900,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN014Mfhog23jKq7EaAia_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301851,
+     "value_name": "黑色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S 建议80-95斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689435355,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291913,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN014Mfhog23jKq7EaAia_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301851,
+     "value_name": "黑色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M 建议95-110斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689436379,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291926,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN014Mfhog23jKq7EaAia_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301851,
+     "value_name": "黑色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L 建议110-120斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689437403,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291939,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN014Mfhog23jKq7EaAia_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301851,
+     "value_name": "黑色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL 建议120-140斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689438427,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291965,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN014Mfhog23jKq7EaAia_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301851,
+     "value_name": "黑色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL 建议140-160斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689439451,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291874,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN014Mfhog23jKq7EaAia_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301851,
+     "value_name": "黑色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL 建议160-180斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689440475,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291952,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN014Mfhog23jKq7EaAia_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301851,
+     "value_name": "黑色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL 建议180-200斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689441499,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291978,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN014Mfhog23jKq7EaAia_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301851,
+     "value_name": "黑色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL 建议200-230斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689442523,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291887,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN014Mfhog23jKq7EaAia_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301851,
+     "value_name": "黑色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28128814,
+     "value_name": "6XL 建议230-260斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689443547,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291901,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01ZMeGrk23jKq85yPxK_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301852,
+     "value_name": "灰色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S 建议80-95斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689444571,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291914,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01ZMeGrk23jKq85yPxK_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301852,
+     "value_name": "灰色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M 建议95-110斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689445595,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291927,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01ZMeGrk23jKq85yPxK_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301852,
+     "value_name": "灰色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L 建议110-120斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689446619,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291940,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01ZMeGrk23jKq85yPxK_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301852,
+     "value_name": "灰色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL 建议120-140斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689447643,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291966,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01ZMeGrk23jKq85yPxK_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301852,
+     "value_name": "灰色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL 建议140-160斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689448667,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291875,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01ZMeGrk23jKq85yPxK_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301852,
+     "value_name": "灰色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL 建议160-180斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689449691,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291953,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01ZMeGrk23jKq85yPxK_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301852,
+     "value_name": "灰色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL 建议180-200斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689450715,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291979,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01ZMeGrk23jKq85yPxK_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301852,
+     "value_name": "灰色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL 建议200-230斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689451739,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291888,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01ZMeGrk23jKq85yPxK_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301852,
+     "value_name": "灰色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28128814,
+     "value_name": "6XL 建议230-260斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689452763,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291902,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN019XuhY323jKq7ZAGez_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301853,
+     "value_name": "咖色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S 建议80-95斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689453787,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291915,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN019XuhY323jKq7ZAGez_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301853,
+     "value_name": "咖色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M 建议95-110斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689454811,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291928,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN019XuhY323jKq7ZAGez_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301853,
+     "value_name": "咖色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L 建议110-120斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689455835,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291941,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN019XuhY323jKq7ZAGez_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301853,
+     "value_name": "咖色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL 建议120-140斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689456859,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291967,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN019XuhY323jKq7ZAGez_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301853,
+     "value_name": "咖色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL 建议140-160斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689457883,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291876,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN019XuhY323jKq7ZAGez_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301853,
+     "value_name": "咖色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL 建议160-180斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689458907,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291954,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN019XuhY323jKq7ZAGez_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301853,
+     "value_name": "咖色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL 建议180-200斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689459931,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291980,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN019XuhY323jKq7ZAGez_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301853,
+     "value_name": "咖色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL 建议200-230斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689460955,
+   "quantity": 200,
+   "price": 7800,
+   "postFee": 0,
+   "sku_id": 6200224291889,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN019XuhY323jKq7ZAGez_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301853,
+     "value_name": "咖色短裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28128814,
+     "value_name": "6XL 建议230-260斤"
+    }
+   ],
+   "promotion_price": 7800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689461979,
+   "quantity": 200,
+   "price": 8800,
+   "postFee": 0,
+   "sku_id": 6200224291903,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01cP3H1O23jKq7xbeSi_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301854,
+     "value_name": "黑色中裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S 建议80-95斤"
+    }
+   ],
+   "promotion_price": 8800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689463003,
+   "quantity": 200,
+   "price": 8800,
+   "postFee": 0,
+   "sku_id": 6200224291916,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01cP3H1O23jKq7xbeSi_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301854,
+     "value_name": "黑色中裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M 建议95-110斤"
+    }
+   ],
+   "promotion_price": 8800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689464027,
+   "quantity": 200,
+   "price": 8800,
+   "postFee": 0,
+   "sku_id": 6200224291929,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01cP3H1O23jKq7xbeSi_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301854,
+     "value_name": "黑色中裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L 建议110-120斤"
+    }
+   ],
+   "promotion_price": 8800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689465051,
+   "quantity": 200,
+   "price": 8800,
+   "postFee": 0,
+   "sku_id": 6200224291942,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01cP3H1O23jKq7xbeSi_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301854,
+     "value_name": "黑色中裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL 建议120-140斤"
+    }
+   ],
+   "promotion_price": 8800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689466075,
+   "quantity": 200,
+   "price": 8800,
+   "postFee": 0,
+   "sku_id": 6200224291968,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01cP3H1O23jKq7xbeSi_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301854,
+     "value_name": "黑色中裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL 建议140-160斤"
+    }
+   ],
+   "promotion_price": 8800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689467099,
+   "quantity": 200,
+   "price": 8800,
+   "postFee": 0,
+   "sku_id": 6200224291877,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01cP3H1O23jKq7xbeSi_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301854,
+     "value_name": "黑色中裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL 建议160-180斤"
+    }
+   ],
+   "promotion_price": 8800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689468123,
+   "quantity": 200,
+   "price": 8800,
+   "postFee": 0,
+   "sku_id": 6200224291955,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01cP3H1O23jKq7xbeSi_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301854,
+     "value_name": "黑色中裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL 建议180-200斤"
+    }
+   ],
+   "promotion_price": 8800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689469147,
+   "quantity": 200,
+   "price": 8800,
+   "postFee": 0,
+   "sku_id": 6200224291981,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01cP3H1O23jKq7xbeSi_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301854,
+     "value_name": "黑色中裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL 建议200-230斤"
+    }
+   ],
+   "promotion_price": 8800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 40623689470171,
+   "quantity": 200,
+   "price": 8800,
+   "postFee": 0,
+   "sku_id": 6200224291890,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01cP3H1O23jKq7xbeSi_!!2209912057291.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 42658301854,
+     "value_name": "黑色中裙【毛呢面料】秋冬款"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28128814,
+     "value_name": "6XL 建议230-260斤"
+    }
+   ],
+   "promotion_price": 8800,
+   "status": "active"
+  }
+ ],
+ "images": [
+  "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01UgEJpx23jKiyCrPYu_!!4611686018427383243-0-item_pic.jpg",
+  "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01K259Nk23jKcED6DDa_!!2209912057291.jpg",
+  "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01Mdx56k23jKcEBMOzj_!!2209912057291.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01iMiu5323jKcBgUlA4_!!2209912057291.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01zCSHcn23jKcGGV3vO_!!2209912057291.jpg",
+  "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01LcRXaH23jKq8QPO1N_!!2209912057291.jpg",
+  "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN01ytJiuC23jKq7tVI4O_!!2209912057291.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/2209912057291/O1CN01goL68p23jKq2tL4aW_!!2209912057291.jpg",
+  "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN016an9PA23jKq7Z9b0I_!!2209912057291.jpg",
+  "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01QYAUD623jKq7xcK2T_!!2209912057291.jpg",
+  "https://img.alicdn.com/bao/uploaded/i4/2209912057291/O1CN01INoeiJ23jKq7EZdR4_!!2209912057291.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01G3CN8Y23jKq7EbB5s_!!2209912057291.jpg",
+  "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN0158Ay0w23jKq7ZB8gb_!!2209912057291.jpg",
+  "https://img.alicdn.com/bao/uploaded/i3/2209912057291/O1CN014Mfhog23jKq7EaAia_!!2209912057291.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN01ZMeGrk23jKq85yPxK_!!2209912057291.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/2209912057291/O1CN019XuhY323jKq7ZAGez_!!2209912057291.jpg"
+ ],
+ "checked_at": "2026-11-05T06:32:54.540Z"
+}
