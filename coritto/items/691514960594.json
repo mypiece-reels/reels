@@ -1,0 +1,2340 @@
+{
+ "item_id": "691514960594",
+ "url": "https://item.taobao.com/item.htm?id=691514960594",
+ "ok": true,
+ "reason": "",
+ "title_cn": "200斤胖MM慵懒风复古V领宽松灰色麻花毛衣女学生秋冬外穿百搭针织",
+ "category": "女装/女士精品->毛衣",
+ "shop": "小胖妹妹爱大码",
+ "yuan": 69.98,
+ "weight_kg": 0.6,
+ "ship_yuan": 57,
+ "cost_yen": 3603,
+ "sale_yen": 5580,
+ "quantity": 19127,
+ "sku_list": [
+  {
+   "mp_skuId": 62433837778,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525137,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01ftU4CX2KLpebMsme9_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 7755155,
+     "value_name": "灰色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433838802,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525138,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01ftU4CX2KLpebMsme9_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 7755155,
+     "value_name": "灰色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433839826,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525139,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01ftU4CX2KLpebMsme9_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 7755155,
+     "value_name": "灰色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433840850,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525140,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01ftU4CX2KLpebMsme9_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 7755155,
+     "value_name": "灰色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433841874,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525141,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01ftU4CX2KLpebMsme9_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 7755155,
+     "value_name": "灰色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433842898,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525142,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01ftU4CX2KLpebMsme9_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 7755155,
+     "value_name": "灰色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433843922,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525143,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01cEjdnt2KLpedLqjzP_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 5607872,
+     "value_name": "粉色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433844946,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525144,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01cEjdnt2KLpedLqjzP_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 5607872,
+     "value_name": "粉色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433845970,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525145,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01cEjdnt2KLpedLqjzP_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 5607872,
+     "value_name": "粉色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433846994,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525146,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01cEjdnt2KLpedLqjzP_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 5607872,
+     "value_name": "粉色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433848018,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525147,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01cEjdnt2KLpedLqjzP_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 5607872,
+     "value_name": "粉色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433849042,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525148,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01cEjdnt2KLpedLqjzP_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 5607872,
+     "value_name": "粉色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433850066,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525149,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01j4ukpr2KLpeDzxyEK_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 95108196,
+     "value_name": "杏色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433851090,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525150,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01j4ukpr2KLpeDzxyEK_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 95108196,
+     "value_name": "杏色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433852114,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525151,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01j4ukpr2KLpeDzxyEK_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 95108196,
+     "value_name": "杏色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433853138,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525152,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01j4ukpr2KLpeDzxyEK_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 95108196,
+     "value_name": "杏色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433854162,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525153,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01j4ukpr2KLpeDzxyEK_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 95108196,
+     "value_name": "杏色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433855186,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525154,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01j4ukpr2KLpeDzxyEK_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 95108196,
+     "value_name": "杏色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433856210,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525155,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01VWMAsq2KLpefutTin_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 6280081,
+     "value_name": "绿色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433857234,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525156,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01VWMAsq2KLpefutTin_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 6280081,
+     "value_name": "绿色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433858258,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525157,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01VWMAsq2KLpefutTin_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 6280081,
+     "value_name": "绿色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433859282,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525158,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01VWMAsq2KLpefutTin_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 6280081,
+     "value_name": "绿色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433860306,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525159,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01VWMAsq2KLpefutTin_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 6280081,
+     "value_name": "绿色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433861330,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525160,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01VWMAsq2KLpefutTin_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 6280081,
+     "value_name": "绿色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433862354,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525161,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01fGiQ1D2KLpeEyDX3C_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 35696226,
+     "value_name": "蓝色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433863378,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525162,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01fGiQ1D2KLpeEyDX3C_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 35696226,
+     "value_name": "蓝色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433864402,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525163,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01fGiQ1D2KLpeEyDX3C_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 35696226,
+     "value_name": "蓝色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433865426,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525164,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01fGiQ1D2KLpeEyDX3C_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 35696226,
+     "value_name": "蓝色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433866450,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525165,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01fGiQ1D2KLpeEyDX3C_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 35696226,
+     "value_name": "蓝色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 62433867474,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 4916760525166,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01fGiQ1D2KLpeEyDX3C_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 35696226,
+     "value_name": "蓝色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438623442,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155709,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN017LsynL2KLpfHGqhnx_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 129948502,
+     "value_name": "酒红色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438624466,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155713,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN017LsynL2KLpfHGqhnx_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 129948502,
+     "value_name": "酒红色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438625490,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155717,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN017LsynL2KLpfHGqhnx_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 129948502,
+     "value_name": "酒红色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438626514,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155725,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN017LsynL2KLpfHGqhnx_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 129948502,
+     "value_name": "酒红色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438627538,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155705,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN017LsynL2KLpfHGqhnx_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 129948502,
+     "value_name": "酒红色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438628562,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155721,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN017LsynL2KLpfHGqhnx_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 129948502,
+     "value_name": "酒红色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438629586,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155708,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01DnHBsO2KLpjSzom0C_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 14310769,
+     "value_name": "黑色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438630610,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155712,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01DnHBsO2KLpjSzom0C_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 14310769,
+     "value_name": "黑色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438631634,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155716,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01DnHBsO2KLpjSzom0C_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 14310769,
+     "value_name": "黑色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438632658,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155724,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01DnHBsO2KLpjSzom0C_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 14310769,
+     "value_name": "黑色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438633682,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155704,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01DnHBsO2KLpjSzom0C_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 14310769,
+     "value_name": "黑色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438634706,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155720,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01DnHBsO2KLpjSzom0C_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 14310769,
+     "value_name": "黑色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5825223876306,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5130517236310,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01LoRmrT2KLpjNtQkbL_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 26755931020,
+     "value_name": "茶叶绿毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5825223877330,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5130517236311,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01LoRmrT2KLpjNtQkbL_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 26755931020,
+     "value_name": "茶叶绿毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5825223878354,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5130517236312,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01LoRmrT2KLpjNtQkbL_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 26755931020,
+     "value_name": "茶叶绿毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5825223879378,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5130517236314,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01LoRmrT2KLpjNtQkbL_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 26755931020,
+     "value_name": "茶叶绿毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5825223880402,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5130517236309,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01LoRmrT2KLpjNtQkbL_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 26755931020,
+     "value_name": "茶叶绿毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5825223881426,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5130517236313,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01LoRmrT2KLpjNtQkbL_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 26755931020,
+     "value_name": "茶叶绿毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438635730,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155710,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01HqSBPf2KLpjRrSVMx_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 16310398,
+     "value_name": "紫色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438636754,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155714,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01HqSBPf2KLpjRrSVMx_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 16310398,
+     "value_name": "紫色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438637778,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155718,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01HqSBPf2KLpjRrSVMx_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 16310398,
+     "value_name": "紫色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438638802,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155726,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01HqSBPf2KLpjRrSVMx_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 16310398,
+     "value_name": "紫色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438639826,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155706,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01HqSBPf2KLpjRrSVMx_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 16310398,
+     "value_name": "紫色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438640850,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5305349155722,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01HqSBPf2KLpjRrSVMx_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 16310398,
+     "value_name": "紫色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6026613145298,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5159708241921,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01DnTkQk2KLpkqGD2k7_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 120562294,
+     "value_name": "咖色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6026613146322,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5159708241923,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01DnTkQk2KLpkqGD2k7_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 120562294,
+     "value_name": "咖色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6026613147346,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5159708241925,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01DnTkQk2KLpkqGD2k7_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 120562294,
+     "value_name": "咖色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6026613148370,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5159708241929,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01DnTkQk2KLpkqGD2k7_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 120562294,
+     "value_name": "咖色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6026613149394,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5159708241919,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01DnTkQk2KLpkqGD2k7_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 120562294,
+     "value_name": "咖色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6026613150418,
+   "quantity": 200,
+   "price": 5998,
+   "postFee": 0,
+   "sku_id": 5159708241927,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01DnTkQk2KLpkqGD2k7_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 120562294,
+     "value_name": "咖色毛衣"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 5998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5514888170194,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5103516017667,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/1616819541/O1CN01TCplpm2KLpegTwDfg_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 672843224,
+     "value_name": "灰色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5514888171218,
+   "quantity": 127,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5103516017668,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/1616819541/O1CN01TCplpm2KLpegTwDfg_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 672843224,
+     "value_name": "灰色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5514888172242,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5103516017669,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/1616819541/O1CN01TCplpm2KLpegTwDfg_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 672843224,
+     "value_name": "灰色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5514888173266,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5103516017671,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/1616819541/O1CN01TCplpm2KLpegTwDfg_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 672843224,
+     "value_name": "灰色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5514888174290,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5103516017666,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/1616819541/O1CN01TCplpm2KLpegTwDfg_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 672843224,
+     "value_name": "灰色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5514888175314,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5103516017670,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/1616819541/O1CN01TCplpm2KLpegTwDfg_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 672843224,
+     "value_name": "灰色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5720219885266,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5293771919273,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01m8Ecga2KLpeMIQcdm_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 2625694269,
+     "value_name": "蓝色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5720219886290,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5293771919274,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01m8Ecga2KLpeMIQcdm_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 2625694269,
+     "value_name": "蓝色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5720219887314,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5293771919275,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01m8Ecga2KLpeMIQcdm_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 2625694269,
+     "value_name": "蓝色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5720219888338,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5293771919277,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01m8Ecga2KLpeMIQcdm_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 2625694269,
+     "value_name": "蓝色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5720219889362,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5293771919272,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01m8Ecga2KLpeMIQcdm_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 2625694269,
+     "value_name": "蓝色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5720219890386,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5293771919276,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01m8Ecga2KLpeMIQcdm_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 2625694269,
+     "value_name": "蓝色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438641874,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5305349155707,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01lHMrLG2KLpeFS8G58_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 10287718587,
+     "value_name": "绿色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438642898,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5305349155711,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01lHMrLG2KLpeFS8G58_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 10287718587,
+     "value_name": "绿色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438643922,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5305349155715,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01lHMrLG2KLpeFS8G58_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 10287718587,
+     "value_name": "绿色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438644946,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5305349155723,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01lHMrLG2KLpeFS8G58_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 10287718587,
+     "value_name": "绿色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438645970,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5305349155703,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01lHMrLG2KLpeFS8G58_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 10287718587,
+     "value_name": "绿色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 5831438646994,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5305349155719,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01lHMrLG2KLpeFS8G58_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 10287718587,
+     "value_name": "绿色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6026613151442,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5159708241922,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01uu3E7H2KLpjTcnPgE_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 28561334113,
+     "value_name": "茶叶绿毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6026613152466,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5159708241924,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01uu3E7H2KLpjTcnPgE_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 28561334113,
+     "value_name": "茶叶绿毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6026613153490,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5159708241926,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01uu3E7H2KLpjTcnPgE_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 28561334113,
+     "value_name": "茶叶绿毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6026613154514,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5159708241930,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01uu3E7H2KLpjTcnPgE_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 28561334113,
+     "value_name": "茶叶绿毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6026613155538,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5159708241920,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01uu3E7H2KLpjTcnPgE_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 28561334113,
+     "value_name": "茶叶绿毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6026613156562,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5159708241928,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01uu3E7H2KLpjTcnPgE_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 28561334113,
+     "value_name": "茶叶绿毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 21165639812818,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5655984016748,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01yF9TbR2KLprODCtX9_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 10287718588,
+     "value_name": "咖色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 21165639813842,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5655984016750,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01yF9TbR2KLprODCtX9_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 10287718588,
+     "value_name": "咖色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 21165639814866,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5655984016752,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01yF9TbR2KLprODCtX9_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 10287718588,
+     "value_name": "咖色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 21165639815890,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5655984016756,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01yF9TbR2KLprODCtX9_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 10287718588,
+     "value_name": "咖色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 21165639816914,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5655984016746,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01yF9TbR2KLprODCtX9_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 10287718588,
+     "value_name": "咖色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 21165639817938,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5655984016754,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01yF9TbR2KLprODCtX9_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 10287718588,
+     "value_name": "咖色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 21165639818962,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5655984016749,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/1616819541/O1CN01bft1Is2KLprMiuc3c_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 1941814210,
+     "value_name": "酒红色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M （80-100）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 21165639819986,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5655984016751,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/1616819541/O1CN01bft1Is2KLprMiuc3c_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 1941814210,
+     "value_name": "酒红色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L （100-120）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 21165639821010,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5655984016753,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/1616819541/O1CN01bft1Is2KLprMiuc3c_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 1941814210,
+     "value_name": "酒红色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL （120-140）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 21165639822034,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5655984016757,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/1616819541/O1CN01bft1Is2KLprMiuc3c_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 1941814210,
+     "value_name": "酒红色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL （140-160）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 21165639823058,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5655984016747,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/1616819541/O1CN01bft1Is2KLprMiuc3c_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 1941814210,
+     "value_name": "酒红色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL （160-180）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 21165639824082,
+   "quantity": 200,
+   "price": 6998,
+   "postFee": 0,
+   "sku_id": 5655984016755,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/1616819541/O1CN01bft1Is2KLprMiuc3c_!!1616819541.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 1941814210,
+     "value_name": "酒红色毛衣（加厚）"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL （180-200）斤"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  }
+ ],
+ "images": [
+  "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01S3xXdk2KLpwek1yUy_!!1616819541.jpg",
+  "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN019KhhRY2KLpek1gcLu_!!1616819541.jpg",
+  "https://img.alicdn.com/bao/uploaded/i4/1616819541/O1CN01Iz9DxQ2KLpeWdP5Ez_!!1616819541.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01ftU4CX2KLpebMsme9_!!1616819541.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01cEjdnt2KLpedLqjzP_!!1616819541.jpg",
+  "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01j4ukpr2KLpeDzxyEK_!!1616819541.jpg",
+  "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01VWMAsq2KLpefutTin_!!1616819541.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01fGiQ1D2KLpeEyDX3C_!!1616819541.jpg",
+  "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN017LsynL2KLpfHGqhnx_!!1616819541.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01DnHBsO2KLpjSzom0C_!!1616819541.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01LoRmrT2KLpjNtQkbL_!!1616819541.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01HqSBPf2KLpjRrSVMx_!!1616819541.jpg",
+  "https://img.alicdn.com/bao/uploaded/i3/1616819541/O1CN01DnTkQk2KLpkqGD2k7_!!1616819541.jpg",
+  "https://img.alicdn.com/bao/uploaded/i4/1616819541/O1CN01TCplpm2KLpegTwDfg_!!1616819541.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/1616819541/O1CN01m8Ecga2KLpeMIQcdm_!!1616819541.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/1616819541/O1CN01lHMrLG2KLpeFS8G58_!!1616819541.jpg"
+ ],
+ "checked_at": "2026-11-06T07:37:02.496Z"
+}
