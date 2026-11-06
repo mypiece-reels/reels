@@ -1,0 +1,436 @@
+{
+ "item_id": "747788321045",
+ "url": "https://item.taobao.com/item.htm?id=747788321045",
+ "ok": true,
+ "reason": "",
+ "title_cn": "加厚毛呢格子半身裙女大码春秋配毛衣高腰显瘦开叉直筒包臀长裙子",
+ "category": "女装/女士精品->半身裙",
+ "shop": "吉野姐姐胖mm女装",
+ "yuan": 99,
+ "weight_kg": 1.5,
+ "ship_yuan": 81,
+ "cost_yen": 4943,
+ "sale_yen": 7680,
+ "quantity": 3200,
+ "sku_list": [
+  {
+   "mp_skuId": 6422425302293,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380142,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01TV9X152HSktjNgF7O_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 8461999,
+     "value_name": "花灰色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422425303317,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380143,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01TV9X152HSktjNgF7O_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 8461999,
+     "value_name": "花灰色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422425304341,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380144,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01TV9X152HSktjNgF7O_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 8461999,
+     "value_name": "花灰色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422425305365,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380145,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01TV9X152HSktjNgF7O_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 8461999,
+     "value_name": "花灰色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422425306389,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380146,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01TV9X152HSktjNgF7O_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 8461999,
+     "value_name": "花灰色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422425307413,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380147,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01TV9X152HSktjNgF7O_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 8461999,
+     "value_name": "花灰色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422425308437,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380148,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01TV9X152HSktjNgF7O_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 8461999,
+     "value_name": "花灰色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422425309461,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380149,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01TV9X152HSktjNgF7O_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 8461999,
+     "value_name": "花灰色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422425310485,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380150,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01j3dyC82HSktddu8XP_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 3806991,
+     "value_name": "黑蓝色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422425311509,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380151,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01j3dyC82HSktddu8XP_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 3806991,
+     "value_name": "黑蓝色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422425312533,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380152,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01j3dyC82HSktddu8XP_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 3806991,
+     "value_name": "黑蓝色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422425313557,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380153,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01j3dyC82HSktddu8XP_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 3806991,
+     "value_name": "黑蓝色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422425314581,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380154,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01j3dyC82HSktddu8XP_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 3806991,
+     "value_name": "黑蓝色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422425315605,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380155,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01j3dyC82HSktddu8XP_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 3806991,
+     "value_name": "黑蓝色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422425316629,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380156,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01j3dyC82HSktddu8XP_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 3806991,
+     "value_name": "黑蓝色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422425317653,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5154705380157,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01j3dyC82HSktddu8XP_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 3806991,
+     "value_name": "黑蓝色 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  }
+ ],
+ "images": [
+  "https://img.alicdn.com/bao/uploaded/i1/2144839150/O1CN01MdgGgG2HSktnHW7uY_!!2144839150.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01f2cZgy2HSktkIcucW_!!2144839150.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/2144839150/O1CN01RTphFQ2HSktiIo9YL_!!2144839150.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01JEi8Mm2HSktlJU4O0_!!2144839150.jpg",
+  "https://img.alicdn.com/bao/uploaded/i4/2144839150/O1CN01A79Fzf2HSktdeZ5Zr_!!2144839150.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01TV9X152HSktjNgF7O_!!2144839150.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01j3dyC82HSktddu8XP_!!2144839150.jpg",
+  "https://img.alicdn.com/imgextra/i4/2144839150/O1CN015SGQHE2HSkkpmTM2j_!!2144839150.jpg",
+  "https://img.alicdn.com/imgextra/i3/2144839150/O1CN01NMUD5O2HSkkioxk3w_!!2144839150.png",
+  "https://img.alicdn.com/imgextra/i2/2144839150/O1CN019nEciq2HSkthICIKF_!!2144839150.jpg",
+  "https://img.alicdn.com/imgextra/i4/2144839150/O1CN01KobjP22HSkp8ppaWy_!!2144839150.png",
+  "https://img.alicdn.com/imgextra/i2/2144839150/O1CN01gapghX2HSktJtV0XJ_!!2144839150.jpg",
+  "https://img.alicdn.com/imgextra/i3/2144839150/O1CN01hrWhKZ2HSktZ1TPrE_!!2144839150.jpg",
+  "https://img.alicdn.com/imgextra/i2/2144839150/O1CN01uRI4qm2HSktlJje1z_!!2144839150.jpg",
+  "https://img.alicdn.com/imgextra/i2/2144839150/O1CN01d4DYCH2HSkthI5qk7_!!2144839150.jpg",
+  "https://img.alicdn.com/imgextra/i2/2144839150/O1CN010VDOBu2HSkthI8GQH_!!2144839150.jpg"
+ ],
+ "checked_at": "2026-11-06T07:29:25.859Z"
+}
