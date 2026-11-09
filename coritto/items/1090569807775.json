@@ -1,0 +1,109 @@
+{
+ "item_id": "1090569807775",
+ "url": "https://item.taobao.com/item.htm?id=1090569807775",
+ "ok": true,
+ "reason": "",
+ "title_cn": "秋冬新款法式温柔风V领蕾丝针织连衣裙女长袖收腰显瘦气质长裙",
+ "category": "女装/女士精品->连衣裙",
+ "shop": "艳恋针织",
+ "yuan": 108,
+ "weight_kg": 0.6,
+ "ship_yuan": 57,
+ "cost_yen": 4585,
+ "sale_yen": 7080,
+ "quantity": 28,
+ "sku_list": [
+  {
+   "mp_skuId": 49434992485279,
+   "quantity": 8,
+   "price": 10800,
+   "postFee": 0,
+   "coupon_price": 9100,
+   "sku_id": 6147673240873,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/191135757/O1CN01k2sQXORX5PE43lmS_!!191135757.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 28320,
+     "value_name": "白色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S"
+    }
+   ],
+   "promotion_price": 10800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49434992486303,
+   "quantity": 10,
+   "price": 10800,
+   "postFee": 0,
+   "coupon_price": 9100,
+   "sku_id": 6147673240874,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/191135757/O1CN01k2sQXORX5PE43lmS_!!191135757.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 28320,
+     "value_name": "白色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M"
+    }
+   ],
+   "promotion_price": 10800,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49434992487327,
+   "quantity": 10,
+   "price": 10800,
+   "postFee": 0,
+   "coupon_price": 9100,
+   "sku_id": 6147673240875,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/191135757/O1CN01k2sQXORX5PE43lmS_!!191135757.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 28320,
+     "value_name": "白色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L"
+    }
+   ],
+   "promotion_price": 10800,
+   "status": "active"
+  }
+ ],
+ "images": [
+  "https://img.alicdn.com/bao/uploaded/i4/191135757/O1CN01SrMvgIY43LJ43lmS~crop,250,0,1500,2000~_!!191135757.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/191135757/O1CN01k2sQXORX5PE43lmS~crop,250,0,1500,2000~_!!191135757.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/191135757/O1CN01oos8o5Q2qxH43lmS~crop,250,0,1500,2000~_!!191135757.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/191135757/O1CN01wNHf3UVdxvF43lmS~crop,250,0,1500,2000~_!!191135757.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/191135757/O1CN01HyJ5mhUKycL43lmS~crop,250,0,1500,2000~_!!191135757.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/191135757/O1CN01k2sQXORX5PE43lmS_!!191135757.jpg",
+  "https://img.alicdn.com/imgextra/i4/191135757/O1CN01ojjB0oKivFF1G2uG_!!191135757.png",
+  "https://img.alicdn.com/imgextra/i2/191135757/O1CN01HyJ5mhUKycL43lmS_!!191135757.jpg",
+  "https://img.alicdn.com/imgextra/i1/191135757/O1CN01k2sQXORX5PE43lmS_!!191135757.jpg",
+  "https://img.alicdn.com/imgextra/i1/191135757/O1CN01oos8o5Q2qxH43lmS_!!191135757.jpg",
+  "https://img.alicdn.com/imgextra/i1/191135757/O1CN01bXvEYyJ9aDB43lmS_!!191135757.jpg",
+  "https://img.alicdn.com/imgextra/i2/191135757/O1CN01wNHf3UVdxvF43lmS_!!191135757.jpg",
+  "https://img.alicdn.com/imgextra/i1/191135757/O1CN01PV0HQ3dQStI1G2uG_!!191135757.png",
+  "https://img.alicdn.com/imgextra/i4/191135757/O1CN01tGKCUET4muK1wTHR_!!191135757.png"
+ ],
+ "checked_at": "2026-11-09T09:01:43.603Z"
+}
