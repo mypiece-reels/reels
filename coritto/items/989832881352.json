@@ -1,0 +1,612 @@
+{
+ "item_id": "989832881352",
+ "url": "https://item.taobao.com/item.htm?id=989832881352",
+ "ok": true,
+ "reason": "",
+ "title_cn": "大码灰色复古毛呢半身裙女秋冬高腰花苞半裙子胖MM伞裙显瘦A字裙",
+ "category": "女装/女士精品->半身裙",
+ "shop": "叽咕叽咕家大码女装",
+ "yuan": 44.99,
+ "weight_kg": 1.5,
+ "ship_yuan": 81,
+ "cost_yen": 3548,
+ "sale_yen": 5480,
+ "quantity": 1120,
+ "sku_list": [
+  {
+   "mp_skuId": 34790031006920,
+   "quantity": 0,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 5955683144983,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN01QnP4Rm1vyQwkqDUyR_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 783992051,
+     "value_name": "深灰色半身裙 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 703036681,
+     "value_name": "M【建议90~100斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 34790031007944,
+   "quantity": 0,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 5955683144982,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN01QnP4Rm1vyQwkqDUyR_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 783992051,
+     "value_name": "深灰色半身裙 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 689018560,
+     "value_name": "L【建议100~120斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 34790031008968,
+   "quantity": 0,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 5955683144985,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN01QnP4Rm1vyQwkqDUyR_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 783992051,
+     "value_name": "深灰色半身裙 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 802486114,
+     "value_name": "XL【建议120~135斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 34790031009992,
+   "quantity": 7,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 5955683144981,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN01QnP4Rm1vyQwkqDUyR_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 783992051,
+     "value_name": "深灰色半身裙 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 1331363119,
+     "value_name": "2XL【建议135~150斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 34790031011016,
+   "quantity": 10,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 5955683144984,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN01QnP4Rm1vyQwkqDUyR_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 783992051,
+     "value_name": "深灰色半身裙 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 787544309,
+     "value_name": "3XL【建议150~170斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 34790031012040,
+   "quantity": 13,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 5955683144986,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN01QnP4Rm1vyQwkqDUyR_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 783992051,
+     "value_name": "深灰色半身裙 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 889258290,
+     "value_name": "4XL【建议170~190斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 35842819827912,
+   "quantity": 200,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 5979846777119,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN01B9yqVe1vyQxAHl3Rd_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 4420652,
+     "value_name": "黑色半身裙 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 703036681,
+     "value_name": "M【建议90~100斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 35842819828936,
+   "quantity": 88,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 5979846777118,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN01B9yqVe1vyQxAHl3Rd_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 4420652,
+     "value_name": "黑色半身裙 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 689018560,
+     "value_name": "L【建议100~120斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 35842819829960,
+   "quantity": 64,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 5979846777121,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN01B9yqVe1vyQxAHl3Rd_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 4420652,
+     "value_name": "黑色半身裙 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 802486114,
+     "value_name": "XL【建议120~135斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 35842819830984,
+   "quantity": 88,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 5979846777117,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN01B9yqVe1vyQxAHl3Rd_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 4420652,
+     "value_name": "黑色半身裙 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 1331363119,
+     "value_name": "2XL【建议135~150斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 35842819832008,
+   "quantity": 63,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 5979846777120,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN01B9yqVe1vyQxAHl3Rd_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 4420652,
+     "value_name": "黑色半身裙 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 787544309,
+     "value_name": "3XL【建议150~170斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 35842819833032,
+   "quantity": 27,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 5979846777122,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN01B9yqVe1vyQxAHl3Rd_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 4420652,
+     "value_name": "黑色半身裙 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 889258290,
+     "value_name": "4XL【建议170~190斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 38663610442952,
+   "quantity": 0,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 6186071054395,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/782266241/O1CN01hEdI751vyQxvxMard_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 26006396479,
+     "value_name": "深灰色半身裙【优质版】 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 703036681,
+     "value_name": "M【建议90~100斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 38663610443976,
+   "quantity": 0,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 6186071054393,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/782266241/O1CN01hEdI751vyQxvxMard_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 26006396479,
+     "value_name": "深灰色半身裙【优质版】 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 689018560,
+     "value_name": "L【建议100~120斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 38663610445000,
+   "quantity": 0,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 6186071054399,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/782266241/O1CN01hEdI751vyQxvxMard_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 26006396479,
+     "value_name": "深灰色半身裙【优质版】 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 802486114,
+     "value_name": "XL【建议120~135斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 38663610446024,
+   "quantity": 7,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 6186071054391,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/782266241/O1CN01hEdI751vyQxvxMard_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 26006396479,
+     "value_name": "深灰色半身裙【优质版】 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 1331363119,
+     "value_name": "2XL【建议135~150斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 38663610447048,
+   "quantity": 10,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 6186071054397,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/782266241/O1CN01hEdI751vyQxvxMard_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 26006396479,
+     "value_name": "深灰色半身裙【优质版】 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 787544309,
+     "value_name": "3XL【建议150~170斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 38663610448072,
+   "quantity": 13,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 6186071054401,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/782266241/O1CN01hEdI751vyQxvxMard_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 26006396479,
+     "value_name": "深灰色半身裙【优质版】 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 889258290,
+     "value_name": "4XL【建议170~190斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 38663610449096,
+   "quantity": 200,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 6186071054394,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN012mf1Nk1vyQxvK2IPP_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 1704032248,
+     "value_name": "黑色半身裙【优质版】 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 703036681,
+     "value_name": "M【建议90~100斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 38663610450120,
+   "quantity": 88,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 6186071054392,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN012mf1Nk1vyQxvK2IPP_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 1704032248,
+     "value_name": "黑色半身裙【优质版】 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 689018560,
+     "value_name": "L【建议100~120斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 38663610451144,
+   "quantity": 63,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 6186071054398,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN012mf1Nk1vyQxvK2IPP_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 1704032248,
+     "value_name": "黑色半身裙【优质版】 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 802486114,
+     "value_name": "XL【建议120~135斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 38663610452168,
+   "quantity": 88,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 6186071054390,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN012mf1Nk1vyQxvK2IPP_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 1704032248,
+     "value_name": "黑色半身裙【优质版】 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 1331363119,
+     "value_name": "2XL【建议135~150斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 38663610453192,
+   "quantity": 64,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 6186071054396,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN012mf1Nk1vyQxvK2IPP_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 1704032248,
+     "value_name": "黑色半身裙【优质版】 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 787544309,
+     "value_name": "3XL【建议150~170斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 38663610454216,
+   "quantity": 27,
+   "price": 4499,
+   "postFee": 0,
+   "sku_id": 6186071054400,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN012mf1Nk1vyQxvK2IPP_!!782266241.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 1704032248,
+     "value_name": "黑色半身裙【优质版】 带口袋"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 889258290,
+     "value_name": "4XL【建议170~190斤】"
+    }
+   ],
+   "promotion_price": 4499,
+   "status": "active"
+  }
+ ],
+ "images": [
+  "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN01LkZBL51vyQwjbstQO_!!782266241.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN01B9yqVe1vyQxAHl3Rd_!!782266241.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/782266241/O1CN01AlXWYq1vyQwjaqVjq~crop,160,0,960,1280~_!!782266241.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/782266241/O1CN019fLbvH1vyQwlGLoAy~crop,160,0,960,1280~_!!782266241.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN017o5kpQ1vyQxSydRTv_!!782266241.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN01QnP4Rm1vyQwkqDUyR_!!782266241.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/782266241/O1CN01hEdI751vyQxvxMard_!!782266241.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/782266241/O1CN012mf1Nk1vyQxvK2IPP_!!782266241.jpg",
+  "https://img.alicdn.com/imgextra/i1/782266241/O1CN01zuYCQx1vyQx7Ov5y2_!!782266241.jpg",
+  "https://img.alicdn.com/imgextra/i4/782266241/O1CN010WSAzt1vyQx7OxZmg_!!782266241.jpg",
+  "https://img.alicdn.com/imgextra/i4/782266241/O1CN01ghscOA1vyQx7lVqXn_!!782266241.jpg",
+  "https://img.alicdn.com/imgextra/i1/782266241/O1CN01RAlz0u1vyQx7uEiOe_!!782266241.jpg",
+  "https://img.alicdn.com/imgextra/i1/782266241/O1CN01dUFLyu1vyQx7uE6xq_!!782266241.jpg",
+  "https://img.alicdn.com/imgextra/i4/782266241/O1CN01zNteLe1vyQx7ZFlEq_!!782266241.jpg",
+  "https://img.alicdn.com/imgextra/i1/782266241/O1CN018khBiE1vyQx9v80oR_!!782266241.jpg",
+  "https://img.alicdn.com/imgextra/i4/782266241/O1CN01edaV921vyQxAdmKBK_!!782266241.jpg"
+ ],
+ "checked_at": "2026-11-09T08:55:18.296Z"
+}
