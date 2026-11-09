@@ -1,0 +1,182 @@
+{
+ "item_id": "1092450833926",
+ "url": "https://item.taobao.com/item.htm?id=1092450833926",
+ "ok": true,
+ "reason": "",
+ "title_cn": "大码女装法式气质黑色丝绒半身裙秋冬胖mm高腰梨形身材显瘦a字裙",
+ "category": "女装/女士精品->半身裙",
+ "shop": "咕晶蕾公主微胖MM",
+ "yuan": 109.9,
+ "weight_kg": 0.4,
+ "ship_yuan": 45,
+ "cost_yen": 4339,
+ "sale_yen": 6680,
+ "quantity": 800,
+ "sku_list": [
+  {
+   "mp_skuId": 48654342176262,
+   "quantity": 0,
+   "price": 10990,
+   "postFee": 0,
+   "coupon_price": 9290,
+   "sku_id": 6312147474259,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/816039967/O1CN01LOk8exTGqeG2vH2e_!!816039967.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 44944527248,
+     "value_name": "黑色半裙【遮肚藏肉/赫本风】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 491614087,
+     "value_name": "M【80-100斤】"
+    }
+   ],
+   "promotion_price": 10990,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 48654342177286,
+   "quantity": 0,
+   "price": 10990,
+   "postFee": 0,
+   "coupon_price": 9290,
+   "sku_id": 6312147474260,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/816039967/O1CN01LOk8exTGqeG2vH2e_!!816039967.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 44944527248,
+     "value_name": "黑色半裙【遮肚藏肉/赫本风】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 573018998,
+     "value_name": "L【100-115斤】"
+    }
+   ],
+   "promotion_price": 10990,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 48654342178310,
+   "quantity": 200,
+   "price": 10990,
+   "postFee": 0,
+   "coupon_price": 9290,
+   "sku_id": 6312147474261,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/816039967/O1CN01LOk8exTGqeG2vH2e_!!816039967.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 44944527248,
+     "value_name": "黑色半裙【遮肚藏肉/赫本风】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 552020343,
+     "value_name": "XL【115-130斤】"
+    }
+   ],
+   "promotion_price": 10990,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 48654342179334,
+   "quantity": 200,
+   "price": 10990,
+   "postFee": 0,
+   "coupon_price": 9290,
+   "sku_id": 6312147474262,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/816039967/O1CN01LOk8exTGqeG2vH2e_!!816039967.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 44944527248,
+     "value_name": "黑色半裙【遮肚藏肉/赫本风】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 611024036,
+     "value_name": "2XL【130-145斤】"
+    }
+   ],
+   "promotion_price": 10990,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 48654342180358,
+   "quantity": 200,
+   "price": 10990,
+   "postFee": 0,
+   "coupon_price": 9290,
+   "sku_id": 6312147474263,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/816039967/O1CN01LOk8exTGqeG2vH2e_!!816039967.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 44944527248,
+     "value_name": "黑色半裙【遮肚藏肉/赫本风】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 611024037,
+     "value_name": "3XL【145-160斤】"
+    }
+   ],
+   "promotion_price": 10990,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 48654342181382,
+   "quantity": 200,
+   "price": 10990,
+   "postFee": 0,
+   "coupon_price": 9290,
+   "sku_id": 6312147474264,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/816039967/O1CN01LOk8exTGqeG2vH2e_!!816039967.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 44944527248,
+     "value_name": "黑色半裙【遮肚藏肉/赫本风】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 611024038,
+     "value_name": "4XL【160-180斤】"
+    }
+   ],
+   "promotion_price": 10990,
+   "status": "active"
+  }
+ ],
+ "images": [
+  "https://img.alicdn.com/bao/uploaded/i4/816039967/O1CN01LOk8exTGqeG2vH2e~crop,180,0,1080,1440~_!!816039967.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/816039967/O1CN01HYLyoK4iLtI2vH2e~crop,180,0,1080,1440~_!!816039967.jpg",
+  "https://img.alicdn.com/bao/uploaded/i4/816039967/O1CN01bxIQw8sEq5I2vH2e~crop,180,0,1080,1440~_!!816039967.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/816039967/O1CN01p1fvJDNQ64J2vH2e~crop,180,0,1080,1440~_!!816039967.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/816039967/O1CN01FGOEhmG5CbD2vH2e~crop,180,0,1080,1440~_!!816039967.jpg",
+  "https://img.alicdn.com/bao/uploaded/i4/816039967/O1CN01LOk8exTGqeG2vH2e_!!816039967.jpg",
+  "https://img.alicdn.com/imgextra/i2/816039967/O1CN01DdupaiFnLpE1sBsl_!!816039967.jpg",
+  "https://img.alicdn.com/imgextra/i4/816039967/O1CN01LOk8exTGqeG2vH2e_!!816039967.jpg",
+  "https://img.alicdn.com/imgextra/i2/816039967/O1CN01HYLyoK4iLtI2vH2e_!!816039967.jpg",
+  "https://img.alicdn.com/imgextra/i4/816039967/O1CN01bxIQw8sEq5I2vH2e_!!816039967.jpg",
+  "https://img.alicdn.com/imgextra/i1/816039967/O1CN01p1fvJDNQ64J2vH2e_!!816039967.jpg",
+  "https://img.alicdn.com/imgextra/i1/816039967/O1CN01FGOEhmG5CbD2vH2e_!!816039967.jpg"
+ ],
+ "checked_at": "2026-11-09T09:03:15.996Z"
+}
