@@ -1,0 +1,285 @@
+{
+ "item_id": "660207592338",
+ "url": "https://item.taobao.com/item.htm?id=660207592338",
+ "ok": true,
+ "reason": "",
+ "title_cn": "大码女装微胖mm过膝加厚内搭针织毛衣裙女秋冬显瘦百搭连衣裙",
+ "category": "女装/女士精品->连衣裙",
+ "shop": "Yokoc 大码女装",
+ "yuan": 129.99,
+ "weight_kg": 0.6,
+ "ship_yuan": 57,
+ "cost_yen": 5153,
+ "sale_yen": 7980,
+ "quantity": 2000,
+ "sku_list": [
+  {
+   "mp_skuId": 47771903760274,
+   "quantity": 200,
+   "price": 12999,
+   "postFee": 0,
+   "coupon_price": 10199,
+   "sku_id": 6139087872582,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/3170717887/O1CN01KuXsHw288IUQRrMPx_!!3170717887.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 7690496,
+     "value_name": "黑色连衣裙"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 8622444,
+     "value_name": "1码"
+    }
+   ],
+   "promotion_price": 11999,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 47771903761298,
+   "quantity": 200,
+   "price": 12999,
+   "postFee": 0,
+   "coupon_price": 10199,
+   "sku_id": 6139087872580,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/3170717887/O1CN01KuXsHw288IUQRrMPx_!!3170717887.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 7690496,
+     "value_name": "黑色连衣裙"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3818827,
+     "value_name": "2码"
+    }
+   ],
+   "promotion_price": 11999,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 47771903762322,
+   "quantity": 200,
+   "price": 12999,
+   "postFee": 0,
+   "coupon_price": 10199,
+   "sku_id": 6139087872586,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/3170717887/O1CN01KuXsHw288IUQRrMPx_!!3170717887.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 7690496,
+     "value_name": "黑色连衣裙"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 9495767,
+     "value_name": "3码"
+    }
+   ],
+   "promotion_price": 11999,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 47771903763346,
+   "quantity": 200,
+   "price": 12999,
+   "postFee": 0,
+   "coupon_price": 10199,
+   "sku_id": 6139087872584,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/3170717887/O1CN01KuXsHw288IUQRrMPx_!!3170717887.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 7690496,
+     "value_name": "黑色连衣裙"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 9385582,
+     "value_name": "4码"
+    }
+   ],
+   "promotion_price": 11999,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 47771903764370,
+   "quantity": 200,
+   "price": 12999,
+   "postFee": 0,
+   "coupon_price": 10199,
+   "sku_id": 6139087872578,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i4/3170717887/O1CN01KuXsHw288IUQRrMPx_!!3170717887.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 7690496,
+     "value_name": "黑色连衣裙"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3479500,
+     "value_name": "5码"
+    }
+   ],
+   "promotion_price": 11999,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 47771903765394,
+   "quantity": 200,
+   "price": 12999,
+   "postFee": 0,
+   "coupon_price": 10199,
+   "sku_id": 6139087872581,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/3170717887/O1CN01NEVKkS288IUOGf1Ks_!!3170717887.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 18046498758,
+     "value_name": "小白杏连衣裙"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 8622444,
+     "value_name": "1码"
+    }
+   ],
+   "promotion_price": 11999,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 47771903766418,
+   "quantity": 200,
+   "price": 12999,
+   "postFee": 0,
+   "coupon_price": 10199,
+   "sku_id": 6139087872579,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/3170717887/O1CN01NEVKkS288IUOGf1Ks_!!3170717887.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 18046498758,
+     "value_name": "小白杏连衣裙"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3818827,
+     "value_name": "2码"
+    }
+   ],
+   "promotion_price": 11999,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 47771903767442,
+   "quantity": 200,
+   "price": 12999,
+   "postFee": 0,
+   "coupon_price": 10199,
+   "sku_id": 6139087872585,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/3170717887/O1CN01NEVKkS288IUOGf1Ks_!!3170717887.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 18046498758,
+     "value_name": "小白杏连衣裙"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 9495767,
+     "value_name": "3码"
+    }
+   ],
+   "promotion_price": 11999,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 47771903768466,
+   "quantity": 200,
+   "price": 12999,
+   "postFee": 0,
+   "coupon_price": 10199,
+   "sku_id": 6139087872583,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/3170717887/O1CN01NEVKkS288IUOGf1Ks_!!3170717887.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 18046498758,
+     "value_name": "小白杏连衣裙"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 9385582,
+     "value_name": "4码"
+    }
+   ],
+   "promotion_price": 11999,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 47771903769490,
+   "quantity": 200,
+   "price": 12999,
+   "postFee": 0,
+   "coupon_price": 10199,
+   "sku_id": 6139087872577,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i2/3170717887/O1CN01NEVKkS288IUOGf1Ks_!!3170717887.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 18046498758,
+     "value_name": "小白杏连衣裙"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3479500,
+     "value_name": "5码"
+    }
+   ],
+   "promotion_price": 11999,
+   "status": "active"
+  }
+ ],
+ "images": [
+  "https://img.alicdn.com/bao/uploaded/i1/3170717887/O1CN01kqthoq288IocpbGtS~crop,100,0,600,800~_!!4611686018427383999-0-item_pic.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/3170717887/O1CN01NEVKkS288IUOGf1Ks~crop,100,0,600,800~_!!3170717887.jpg",
+  "https://img.alicdn.com/bao/uploaded/i4/3170717887/O1CN01Iezulp288IdxVahUE~crop,100,0,600,800~_!!3170717887.jpg",
+  "https://img.alicdn.com/bao/uploaded/i3/3170717887/O1CN01RI7z4J288Ie0HLZd5~crop,74,0,600,800~_!!3170717887.jpg",
+  "https://img.alicdn.com/bao/uploaded/i4/3170717887/O1CN01vwRrhW288IUUAZ1Y3~crop,100,0,600,800~_!!3170717887.jpg",
+  "https://img.alicdn.com/bao/uploaded/i4/3170717887/O1CN01KuXsHw288IUQRrMPx_!!3170717887.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/3170717887/O1CN01NEVKkS288IUOGf1Ks_!!3170717887.jpg",
+  "https://img.alicdn.com/imgextra/i2/3170717887/O1CN01j68c6w288IiPrwLy4_!!3170717887.jpg",
+  "https://img.alicdn.com/imgextra/i4/3170717887/O1CN01OgntzO288Ij1HpGB9_!!3170717887.jpg",
+  "https://img.alicdn.com/imgextra/i4/3170717887/O1CN01OepcrK288IYinPDxr_!!3170717887.png",
+  "https://img.alicdn.com/imgextra/i4/3170717887/O1CN01KuXsHw288IUQRrMPx_!!3170717887.jpg",
+  "https://img.alicdn.com/imgextra/i3/3170717887/O1CN01d2NwJX288IrLY86Gd_!!3170717887.jpg",
+  "https://img.alicdn.com/imgextra/i4/3170717887/O1CN01vwRrhW288IUUAZ1Y3_!!3170717887.jpg",
+  "https://img.alicdn.com/imgextra/i2/3170717887/O1CN01BSPdP3288IrFNFwHd_!!3170717887.jpg",
+  "https://img.alicdn.com/imgextra/i1/3170717887/O1CN01plRia3288IUUBnh3o_!!3170717887.jpg"
+ ],
+ "checked_at": "2026-11-09T08:57:00.785Z"
+}
