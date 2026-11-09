@@ -1,0 +1,408 @@
+{
+ "item_id": "1091062051269",
+ "url": "https://item.taobao.com/item.htm?id=1091062051269",
+ "ok": true,
+ "reason": "",
+ "title_cn": "大码女装灰色毛呢半身裙女秋冬胖mm高腰显瘦a字裙子中长款花苞裙",
+ "category": "女装/女士精品->大码女装(新)->大码半身裙",
+ "shop": "丽赫定制特大码女装",
+ "yuan": 89.98,
+ "weight_kg": 1.5,
+ "ship_yuan": 81,
+ "cost_yen": 4710,
+ "sale_yen": 7280,
+ "quantity": 3000,
+ "sku_list": [
+  {
+   "mp_skuId": 49005478465989,
+   "quantity": 200,
+   "price": 8998,
+   "postFee": 0,
+   "coupon_price": 5948,
+   "sku_id": 6148267068793,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1028845368/O1CN01ScDdsbaqqjF2vH2e_!!1028845368.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 28341,
+     "value_name": "黑色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL 建议130斤内"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49005478467013,
+   "quantity": 200,
+   "price": 8998,
+   "postFee": 0,
+   "coupon_price": 5948,
+   "sku_id": 6148267068794,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1028845368/O1CN01ScDdsbaqqjF2vH2e_!!1028845368.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 28341,
+     "value_name": "黑色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL 建议160斤内"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49005478468037,
+   "quantity": 200,
+   "price": 8998,
+   "postFee": 0,
+   "coupon_price": 5948,
+   "sku_id": 6148267068795,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1028845368/O1CN01ScDdsbaqqjF2vH2e_!!1028845368.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 28341,
+     "value_name": "黑色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL 建议200斤内"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49005478469061,
+   "quantity": 200,
+   "price": 8998,
+   "postFee": 0,
+   "coupon_price": 5948,
+   "sku_id": 6148267068796,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1028845368/O1CN01ScDdsbaqqjF2vH2e_!!1028845368.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 28341,
+     "value_name": "黑色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL 建议250斤内"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49005478470085,
+   "quantity": 200,
+   "price": 8998,
+   "postFee": 0,
+   "coupon_price": 5948,
+   "sku_id": 6148267068797,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1028845368/O1CN01ScDdsbaqqjF2vH2e_!!1028845368.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 28341,
+     "value_name": "黑色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL 建议300斤内"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49005478471109,
+   "quantity": 200,
+   "price": 8998,
+   "postFee": 0,
+   "coupon_price": 5948,
+   "sku_id": 6148267068798,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1028845368/O1CN010ip2CqadW3D2vH2e_!!1028845368.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 4168285,
+     "value_name": "咖色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL 建议130斤内"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49005478472133,
+   "quantity": 200,
+   "price": 8998,
+   "postFee": 0,
+   "coupon_price": 5948,
+   "sku_id": 6148267068799,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1028845368/O1CN010ip2CqadW3D2vH2e_!!1028845368.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 4168285,
+     "value_name": "咖色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL 建议160斤内"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49005478473157,
+   "quantity": 200,
+   "price": 8998,
+   "postFee": 0,
+   "coupon_price": 5948,
+   "sku_id": 6148267068800,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1028845368/O1CN010ip2CqadW3D2vH2e_!!1028845368.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 4168285,
+     "value_name": "咖色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL 建议200斤内"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49005478474181,
+   "quantity": 200,
+   "price": 8998,
+   "postFee": 0,
+   "coupon_price": 5948,
+   "sku_id": 6148267068801,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1028845368/O1CN010ip2CqadW3D2vH2e_!!1028845368.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 4168285,
+     "value_name": "咖色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL 建议250斤内"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49005478475205,
+   "quantity": 200,
+   "price": 8998,
+   "postFee": 0,
+   "coupon_price": 5948,
+   "sku_id": 6148267068802,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/1028845368/O1CN010ip2CqadW3D2vH2e_!!1028845368.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 4168285,
+     "value_name": "咖色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL 建议300斤内"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49005478476229,
+   "quantity": 200,
+   "price": 8998,
+   "postFee": 0,
+   "coupon_price": 5948,
+   "sku_id": 6148267068803,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1028845368/O1CN01PpfVju5SrcI2vH2e_!!1028845368.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 3232478,
+     "value_name": "深灰色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL 建议130斤内"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49005478477253,
+   "quantity": 200,
+   "price": 8998,
+   "postFee": 0,
+   "coupon_price": 5948,
+   "sku_id": 6148267068804,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1028845368/O1CN01PpfVju5SrcI2vH2e_!!1028845368.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 3232478,
+     "value_name": "深灰色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL 建议160斤内"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49005478478277,
+   "quantity": 200,
+   "price": 8998,
+   "postFee": 0,
+   "coupon_price": 5948,
+   "sku_id": 6148267068805,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1028845368/O1CN01PpfVju5SrcI2vH2e_!!1028845368.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 3232478,
+     "value_name": "深灰色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL 建议200斤内"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49005478479301,
+   "quantity": 200,
+   "price": 8998,
+   "postFee": 0,
+   "coupon_price": 5948,
+   "sku_id": 6148267068806,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1028845368/O1CN01PpfVju5SrcI2vH2e_!!1028845368.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 3232478,
+     "value_name": "深灰色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL 建议250斤内"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 49005478480325,
+   "quantity": 200,
+   "price": 8998,
+   "postFee": 0,
+   "coupon_price": 5948,
+   "sku_id": 6148267068807,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/1028845368/O1CN01PpfVju5SrcI2vH2e_!!1028845368.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 3232478,
+     "value_name": "深灰色"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL 建议300斤内"
+    }
+   ],
+   "promotion_price": 6998,
+   "status": "active"
+  }
+ ],
+ "images": [
+  "https://img.alicdn.com/bao/uploaded/i3/1028845368/O1CN01cYv3TTZqeEJ2vHAO_!!1028845368.jpg",
+  "https://img.alicdn.com/bao/uploaded/i4/1028845368/O1CN01ZCcw52GxNXH2vHAO_!!1028845368.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/1028845368/O1CN012rJnf5dEwxE2vHAO_!!1028845368.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/1028845368/O1CN01yeAcHgSwNnC2vHAO_!!1028845368.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/1028845368/O1CN01txgpmqdtxtG2vHAO_!!1028845368.jpg",
+  "https://img.alicdn.com/bao/uploaded/i3/1028845368/O1CN01ScDdsbaqqjF2vH2e_!!1028845368.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/1028845368/O1CN010ip2CqadW3D2vH2e_!!1028845368.jpg",
+  "https://img.alicdn.com/bao/uploaded/i3/1028845368/O1CN01PpfVju5SrcI2vH2e_!!1028845368.jpg",
+  "https://img.alicdn.com/imgextra/i3/1028845368/O1CN01VIzK0A1pWbDYVXzH1_!!1028845368.jpg",
+  "https://img.alicdn.com/imgextra/i4/1028845368/O1CN01ZCcw52GxNXH2vHAO_!!1028845368.jpg",
+  "https://img.alicdn.com/imgextra/i1/1028845368/O1CN012rJnf5dEwxE2vHAO_!!1028845368.jpg",
+  "https://img.alicdn.com/imgextra/i1/1028845368/O1CN01yeAcHgSwNnC2vHAO_!!1028845368.jpg",
+  "https://img.alicdn.com/imgextra/i2/1028845368/O1CN01txgpmqdtxtG2vHAO_!!1028845368.jpg"
+ ],
+ "checked_at": "2026-11-09T09:03:15.995Z"
+}
