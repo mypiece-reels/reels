@@ -1,8 +1,10 @@
 {
- "checkedAt": "2026-11-09T11:07:32.736Z",
+ "checkedAt": "2026-11-09T17:07:31.478Z",
  "skus": 1338,
- "failedItems": [],
- "items": 109,
+ "failedItems": [
+  "995576548605"
+ ],
+ "items": 108,
  "changes": [
   {
    "sku": "TB976673390714-1-L",
