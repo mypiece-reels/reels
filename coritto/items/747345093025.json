@@ -1,0 +1,436 @@
+{
+ "item_id": "747345093025",
+ "url": "https://item.taobao.com/item.htm?id=747345093025",
+ "ok": true,
+ "reason": "",
+ "title_cn": "大码微胖MM毛呢半身裙春秋复古长裙女梨形身材高腰A字格子包臀裙",
+ "category": "女装/女士精品->半身裙",
+ "shop": "吉野姐姐胖mm女装",
+ "yuan": 99,
+ "weight_kg": 1.5,
+ "ship_yuan": 81,
+ "cost_yen": 4943,
+ "sale_yen": 7680,
+ "quantity": 3200,
+ "sku_list": [
+  {
+   "mp_skuId": 6422396274081,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5326522631570,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2144839150/O1CN01K1Tu0R2HSkth4q59H_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 849650787,
+     "value_name": "花灰色长裙 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422396275105,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5326522631571,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2144839150/O1CN01K1Tu0R2HSkth4q59H_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 849650787,
+     "value_name": "花灰色长裙 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422396276129,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5326522631572,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2144839150/O1CN01K1Tu0R2HSkth4q59H_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 849650787,
+     "value_name": "花灰色长裙 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422396277153,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5326522631573,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2144839150/O1CN01K1Tu0R2HSkth4q59H_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 849650787,
+     "value_name": "花灰色长裙 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422396278177,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5326522631574,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2144839150/O1CN01K1Tu0R2HSkth4q59H_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 849650787,
+     "value_name": "花灰色长裙 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422396279201,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5326522631575,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2144839150/O1CN01K1Tu0R2HSkth4q59H_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 849650787,
+     "value_name": "花灰色长裙 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422396280225,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5326522631576,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2144839150/O1CN01K1Tu0R2HSkth4q59H_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 849650787,
+     "value_name": "花灰色长裙 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422396281249,
+   "quantity": 200,
+   "price": 9900,
+   "postFee": 0,
+   "coupon_price": 3310,
+   "sku_id": 5326522631577,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i1/2144839150/O1CN01K1Tu0R2HSkth4q59H_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 849650787,
+     "value_name": "花灰色长裙 【配腰带】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL"
+    }
+   ],
+   "promotion_price": 3900,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422396282273,
+   "quantity": 200,
+   "price": 9400,
+   "postFee": 0,
+   "coupon_price": 2960,
+   "sku_id": 5326522631578,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2144839150/O1CN01WdllJr2HSktiS83sH_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 664458905,
+     "value_name": "花灰色短裙 【内带安全裤】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28314,
+     "value_name": "S"
+    }
+   ],
+   "promotion_price": 3490,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422396283297,
+   "quantity": 200,
+   "price": 9400,
+   "postFee": 0,
+   "coupon_price": 2960,
+   "sku_id": 5326522631579,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2144839150/O1CN01WdllJr2HSktiS83sH_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 664458905,
+     "value_name": "花灰色短裙 【内带安全裤】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28315,
+     "value_name": "M"
+    }
+   ],
+   "promotion_price": 3490,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422396284321,
+   "quantity": 200,
+   "price": 9400,
+   "postFee": 0,
+   "coupon_price": 2960,
+   "sku_id": 5326522631580,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2144839150/O1CN01WdllJr2HSktiS83sH_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 664458905,
+     "value_name": "花灰色短裙 【内带安全裤】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28316,
+     "value_name": "L"
+    }
+   ],
+   "promotion_price": 3490,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422396285345,
+   "quantity": 200,
+   "price": 9400,
+   "postFee": 0,
+   "coupon_price": 2960,
+   "sku_id": 5326522631581,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2144839150/O1CN01WdllJr2HSktiS83sH_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 664458905,
+     "value_name": "花灰色短裙 【内带安全裤】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 28317,
+     "value_name": "XL"
+    }
+   ],
+   "promotion_price": 3490,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422396286369,
+   "quantity": 200,
+   "price": 9400,
+   "postFee": 0,
+   "coupon_price": 2960,
+   "sku_id": 5326522631582,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2144839150/O1CN01WdllJr2HSktiS83sH_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 664458905,
+     "value_name": "花灰色短裙 【内带安全裤】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 6145171,
+     "value_name": "2XL"
+    }
+   ],
+   "promotion_price": 3490,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422396287393,
+   "quantity": 200,
+   "price": 9400,
+   "postFee": 0,
+   "coupon_price": 2960,
+   "sku_id": 5326522631583,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2144839150/O1CN01WdllJr2HSktiS83sH_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 664458905,
+     "value_name": "花灰色短裙 【内带安全裤】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 115781,
+     "value_name": "3XL"
+    }
+   ],
+   "promotion_price": 3490,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422396288417,
+   "quantity": 200,
+   "price": 9400,
+   "postFee": 0,
+   "coupon_price": 2960,
+   "sku_id": 5326522631584,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2144839150/O1CN01WdllJr2HSktiS83sH_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 664458905,
+     "value_name": "花灰色短裙 【内带安全裤】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 3727387,
+     "value_name": "4XL"
+    }
+   ],
+   "promotion_price": 3490,
+   "status": "active"
+  },
+  {
+   "mp_skuId": 6422396289441,
+   "quantity": 200,
+   "price": 9400,
+   "postFee": 0,
+   "coupon_price": 2960,
+   "sku_id": 5326522631585,
+   "pic_url": "https://img.alicdn.com/bao/uploaded/i3/2144839150/O1CN01WdllJr2HSktiS83sH_!!2144839150.jpg",
+   "properties": [
+    {
+     "prop_name": "颜色分类",
+     "prop_id": 1627207,
+     "value_id": 664458905,
+     "value_name": "花灰色短裙 【内带安全裤】"
+    },
+    {
+     "prop_name": "尺码",
+     "prop_id": 20509,
+     "value_id": 7539404,
+     "value_name": "5XL"
+    }
+   ],
+   "promotion_price": 3490,
+   "status": "active"
+  }
+ ],
+ "images": [
+  "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01nN7IDA2HSkteyUDK2_!!2144839150.jpg",
+  "https://img.alicdn.com/bao/uploaded/i2/2144839150/O1CN01OterLA2HSkteyTg5e_!!2144839150.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/2144839150/O1CN01RPmq3O2HSktky24Nu_!!2144839150.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/2144839150/O1CN01bxHTpg2HSktYfYwyg_!!2144839150.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/2144839150/O1CN01eTnHg12HSkthwkcZp_!!2144839150.jpg",
+  "https://img.alicdn.com/bao/uploaded/i1/2144839150/O1CN01K1Tu0R2HSkth4q59H_!!2144839150.jpg",
+  "https://img.alicdn.com/bao/uploaded/i3/2144839150/O1CN01WdllJr2HSktiS83sH_!!2144839150.jpg",
+  "https://img.alicdn.com/imgextra/i4/2144839150/O1CN015SGQHE2HSkkpmTM2j_!!2144839150.jpg",
+  "https://img.alicdn.com/imgextra/i3/2144839150/O1CN01NMUD5O2HSkkioxk3w_!!2144839150.png",
+  "https://img.alicdn.com/imgextra/i2/2144839150/O1CN01nhc4wh2HSl0FVFpb3_!!2144839150.jpg",
+  "https://img.alicdn.com/imgextra/i4/2144839150/O1CN01KobjP22HSkp8ppaWy_!!2144839150.png",
+  "https://img.alicdn.com/imgextra/i3/2144839150/O1CN01jJKz0G2HSl0H1U5iG_!!2144839150.jpg",
+  "https://img.alicdn.com/imgextra/i1/2144839150/O1CN011K8TeV2HSl0G48IAA_!!2144839150.jpg",
+  "https://img.alicdn.com/imgextra/i3/2144839150/O1CN01hEAYL32HSl0FVExW2_!!2144839150.jpg",
+  "https://img.alicdn.com/imgextra/i3/2144839150/O1CN01pWRqfR2HSl0G49Uza_!!2144839150.jpg",
+  "https://img.alicdn.com/imgextra/i3/2144839150/O1CN01J551Ug2HSkteQQ70m_!!2144839150.jpg"
+ ],
+ "checked_at": "2026-11-09T08:55:18.296Z"
+}
