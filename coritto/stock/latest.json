@@ -1,18 +1,11 @@
 {
- "checkedAt": "2026-11-17T05:07:31.088Z",
+ "checkedAt": "2026-11-17T11:07:33.544Z",
  "skus": 1338,
  "failedItems": [],
  "items": 109,
  "changes": [
   {
    "sku": "TB995576548605-3XL",
-   "taobaoId": "995576548605",
-   "from": 0,
-   "to": 5,
-   "reason": "在庫が戻った"
-  },
-  {
-   "sku": "TB995576548605-4XL",
    "taobaoId": "995576548605",
    "from": 0,
    "to": 5,
