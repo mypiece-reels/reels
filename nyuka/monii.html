@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#1f5f9e">
+<title>monii様 入荷検品</title>
+<style>
+:root{--bg:#f2f5f7;--card:#fff;--ink:#15212b;--muted:#5b6a75;--line:#d6dde2;--blue:#1f5f9e;--minus:#c0392b;--minus-bg:#fde2e1;--plus:#1f5f9e;--plus-bg:#e0efff;--hit:#f4c430}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 -apple-system,"Hiragino Sans","Noto Sans JP",sans-serif}
+header{position:sticky;top:0;z-index:5;background:var(--blue);color:#fff;padding:calc(10px + env(safe-area-inset-top)) 14px 12px}
+header h1{margin:0 0 8px;font-size:18px}
+select,input[type=search]{width:100%;font-size:16px;padding:10px 12px;border-radius:10px;border:0}
+.bar{display:flex;gap:8px;margin-top:8px}
+.bar input{flex:1;min-width:0}
+.scanbtn{flex:none;border:0;border-radius:10px;background:var(--hit);color:#2a2000;font-weight:800;font-size:16px;padding:0 16px}
+#cam{display:none;background:#000;position:relative}
+#cam.on{display:block}
+#reader{width:100%;max-width:520px;margin:0 auto}
+#reader video{width:100%!important;height:auto!important}
+.camfoot{display:flex;gap:8px;padding:8px 10px;background:#000}
+.camfoot span{flex:1;color:#fff;font-size:14px;align-self:center}
+.camfoot button{border:0;border-radius:10px;padding:10px 16px;font-weight:700;font-size:15px}
+.tabs{display:flex;gap:8px;padding:10px 14px 0}
+.tab{flex:1;padding:10px;border-radius:10px;border:1px solid var(--line);background:#fff;font-size:15px;font-weight:700;color:var(--muted)}
+.tab.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.sum{padding:8px 14px;color:var(--muted);font-size:14px}
+main{padding:0 10px 120px}
+.item{background:var(--card);border-radius:14px;padding:12px;margin:8px 0;border:2px solid transparent;display:grid;grid-template-columns:1fr auto;gap:6px 10px;align-items:center}
+.item.minus{border-color:var(--minus);background:var(--minus-bg)}
+.item.plus{border-color:var(--plus);background:var(--plus-bg)}
+.item.hit{box-shadow:0 0 0 4px var(--hit)}
+.loc{font-size:22px;font-weight:800}
+.sku{font-size:15px;word-break:break-all}
+.jan{font-size:12px;color:var(--muted)}
+.plan{font-size:13px;color:var(--muted)}
+.ctl{grid-column:1/-1;display:grid;grid-template-columns:64px 1fr 64px;gap:10px;align-items:center}
+.btn{height:60px;border-radius:14px;border:0;font-size:32px;font-weight:800;color:#fff;touch-action:manipulation}
+.btn.m{background:var(--minus)}.btn.p{background:var(--plus)}
+.btn:active{transform:scale(.95)}
+.num{text-align:center}.num b{font-size:34px;line-height:1}
+.num small{display:block;font-size:13px;font-weight:700}
+.minus .num small{color:var(--minus)}.plus .num small{color:var(--plus)}
+.reset{grid-column:1/-1;justify-self:end;background:none;border:0;color:var(--muted);text-decoration:underline;font-size:13px;padding:4px}
+.empty{text-align:center;color:var(--muted);padding:40px 10px}
+.banner{margin:10px 10px 0;padding:10px 12px;border-radius:12px;background:#fff8dc;border:1px solid var(--hit);font-size:14px;display:none;align-items:center;gap:8px}
+.banner.on{display:flex}.banner b{flex:1}
+.banner button{border:0;background:var(--ink);color:#fff;border-radius:8px;padding:8px 12px;font-weight:700}
+footer{position:fixed;left:0;right:0;bottom:0;background:#fff;border-top:1px solid var(--line);padding:10px 14px calc(10px + env(safe-area-inset-bottom));display:flex;gap:8px}
+footer button,footer a{flex:1;height:48px;border-radius:12px;border:0;font-size:15px;font-weight:700;display:flex;align-items:center;justify-content:center;text-decoration:none}
+.pri{background:var(--ink);color:#fff}.sec{background:#e7ecef;color:var(--ink)}
+.toast{position:fixed;left:50%;bottom:84px;transform:translateX(-50%);background:#15212b;color:#fff;padding:10px 16px;border-radius:10px;font-size:15px;display:none;z-index:9;max-width:90vw;text-align:center}
+</style>
+</head>
+<body>
+<header>
+  <h1>monii様 入荷検品</h1>
+  <select id="arr"><option>読み込み中…</option></select>
+  <div class="bar"><input id="q" type="search" placeholder="ロケ・商品コード・JANで検索"><button class="scanbtn" id="scan" type="button">📷 読取</button></div>
+</header>
+<div id="cam"><div id="reader"></div><div class="camfoot"><span id="camMsg">バーコードを枠に合わせてください</span><button class="sec" id="camStop" type="button">閉じる</button></div></div>
+<div class="banner" id="banner"><b id="bannerText"></b><button id="showAll" type="button">一覧に戻る</button></div>
+<div class="tabs"><button class="tab on" data-f="all" type="button">全部</button><button class="tab" data-f="diff" type="button">差異あり</button></div>
+<div class="sum" id="sum"></div>
+<main id="list"><div class="empty">読み込み中…</div></main>
+<footer>
+  <button class="sec" id="reload" type="button">最新に更新</button>
+  <a class="pri" id="office" href="#">事務所用</a>
+</footer>
+<div class="toast" id="toast"></div>
+<script src="https://unpkg.com/html5-qrcode@2.3.8/html5-qrcode.min.js"></script>
+<script>
+{
+const API = 'https://script.google.com/macros/s/AKfycbwtMmMlMFtRsqN4kuoczqpAiINv1YWXG0565L1jvE3nob5UJitOByFYY1PLGuMIiXIMaA/exec';
+const $ = (id) => document.getElementById(id);
+$('office').href = API;
+/* 暗証番号：QRコードのURL末尾（#pin=…）から受け取り、この端末に保存 */
+let PIN = '';
+try { PIN = localStorage.getItem('monii_pin') || ''; } catch (e) {}
+const m = location.hash.match(/pin=([\w-]+)/);
+if (m) { PIN = m[1]; try { localStorage.setItem('monii_pin', PIN); } catch (e) {} history.replaceState(null, '', location.pathname); }
+
+let items = [], cur = '', filter = 'all', focusRow = null;
+const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const toast = (t, ms) => { const e = $('toast'); e.textContent = t; e.style.display = 'block'; clearTimeout(toast.t); toast.t = setTimeout(() => e.style.display = 'none', ms || 2500); };
+const call = async (params) => {
+  const u = new URL(API);
+  Object.entries(Object.assign({ pin: PIN }, params)).forEach(([k, v]) => u.searchParams.set(k, v));
+  const r = await fetch(u, { cache: 'no-store' });
+  const j = await r.json();
+  if (!j.ok) throw new Error(j.error);
+  return j.data;
+};
+const rid = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 8);
+
+async function loadArrivals(keep) {
+  if (!PIN) { $('list').innerHTML = '<div class="empty">作業場のQRコードから開いてください。</div>'; return; }
+  const list = await call({ api: 'list' });
+  const sel = $('arr');
+  if (!list.length) { sel.innerHTML = '<option>入荷データがありません</option>'; $('list').innerHTML = '<div class="empty">事務所で入荷データを取り込むと表示されます。</div>'; return; }
+  sel.innerHTML = list.map((a) => '<option value="' + esc(a.name) + '">' + esc(a.name) + '（' + a.lines + '品目・' + a.plan + '点' + (a.diffs ? '・差異' + a.diffs : '') + '）</option>').join('');
+  if (keep && list.some((a) => a.name === keep)) sel.value = keep;
+  cur = sel.value;
+  await loadItems();
+}
+async function loadItems() {
+  $('list').innerHTML = '<div class="empty">読み込み中…</div>';
+  items = await call({ api: 'items', name: cur });
+  render();
+}
+function render() {
+  const q = $('q').value.trim().toLowerCase();
+  let view;
+  if (focusRow) view = items.filter((it) => it.row === focusRow);
+  else view = items.filter((it) => (filter === 'all' || it.act !== it.plan) && (!q || (it.loc + ' ' + it.sku + ' ' + it.jan + ' ' + it.note).toLowerCase().includes(q)));
+  const d = items.filter((it) => it.act !== it.plan).length;
+  $('sum').textContent = items.length + '品目／予定' + items.reduce((s, it) => s + it.plan, 0) + '点・実数' + items.reduce((s, it) => s + it.act, 0) + '点／差異 ' + d + '件';
+  if (!view.length) { $('list').innerHTML = '<div class="empty">' + (filter === 'diff' ? '差異のある商品はありません。' : '該当する商品がありません。') + '</div>'; return; }
+  $('list').innerHTML = view.map((it) => {
+    const diff = it.act - it.plan;
+    const cls = (diff < 0 ? 'minus' : diff > 0 ? 'plus' : '') + (it.row === focusRow ? ' hit' : '');
+    return '<div class="item ' + cls + '" data-row="' + it.row + '">'
+      + '<div><div class="loc">' + esc(it.loc || '—') + '</div><div class="sku">' + esc(it.sku) + '</div>' + (it.jan ? '<div class="jan">JAN ' + esc(it.jan) + '</div>' : '') + '</div>'
+      + '<div class="plan">予定 ' + it.plan + '</div>'
+      + '<div class="ctl"><button class="btn m" data-d="-1" type="button" aria-label="1つ減らす">−</button>'
+      + '<div class="num"><b>' + it.act + '</b><small>' + (diff ? (diff > 0 ? '+' : '') + diff : '予定どおり') + '</small></div>'
+      + '<button class="btn p" data-d="1" type="button" aria-label="1つ増やす">＋</button></div>'
+      + (diff ? '<button class="reset" data-reset="1" type="button">予定数に戻す</button>' : '')
+      + '</div>';
+  }).join('');
+}
+function focusItem(it, code) {
+  focusRow = it.row;
+  $('bannerText').textContent = '読み取り：' + code;
+  $('banner').classList.add('on');
+  render();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+function clearFocus() { focusRow = null; $('banner').classList.remove('on'); render(); }
+$('showAll').addEventListener('click', clearFocus);
+
+$('list').addEventListener('click', async (e) => {
+  const b = e.target.closest('button'); if (!b) return;
+  const row = Number(b.closest('.item').dataset.row);
+  const it = items.find((x) => x.row === row); if (!it) return;
+  const prev = it.act;
+  if (b.dataset.reset) it.act = it.plan; else it.act = Math.max(0, it.act + Number(b.dataset.d));
+  render();
+  try {
+    const r = b.dataset.reset ? await call({ api: 'reset', name: cur, row: row, rid: rid() }) : await call({ api: 'adjust', name: cur, row: row, delta: Number(b.dataset.d), rid: rid() });
+    it.act = r.act; render();
+  } catch (err) { it.act = prev; render(); toast('保存できませんでした。電波を確認してもう一度押してください。'); }
+});
+$('arr').addEventListener('change', () => { cur = $('arr').value; clearFocus(); loadItems(); });
+$('q').addEventListener('input', () => { focusRow = null; $('banner').classList.remove('on'); render(); });
+document.querySelectorAll('.tab').forEach((t) => t.addEventListener('click', () => { document.querySelectorAll('.tab').forEach((x) => x.classList.remove('on')); t.classList.add('on'); filter = t.dataset.f; clearFocus(); }));
+$('reload').addEventListener('click', () => loadArrivals(cur).catch((err) => toast(err.message)));
+
+/* ---------- カメラ読み取り ---------- */
+let scanner = null, last = '', lastAt = 0;
+const norm = (s) => String(s).trim().replace(/^0+(?=\d{13}$)/, '');
+function onCode(text) {
+  const code = norm(text);
+  const now = Date.now();
+  if (code === last && now - lastAt < 2500) return;
+  last = code; lastAt = now;
+  const low = code.toLowerCase();
+  const it = items.find((x) => [x.jan, x.note, x.sku].some((v) => v && String(v).trim().toLowerCase() === low));
+  if (it) {
+    if (navigator.vibrate) navigator.vibrate(80);
+    $('camMsg').textContent = '見つかりました：' + it.sku;
+    stopScan();
+    focusItem(it, code);
+  } else {
+    if (navigator.vibrate) navigator.vibrate([60, 60, 60]);
+    $('camMsg').textContent = 'この入荷にない商品です：' + code;
+    toast('この入荷にない商品です（' + code + '）', 3000);
+  }
+}
+async function startScan() {
+  if (!window.Html5Qrcode) { toast('読み取り機能を読み込めませんでした。電波を確認してください。'); return; }
+  $('cam').classList.add('on'); $('camMsg').textContent = 'バーコードを枠に合わせてください';
+  last = '';
+  try {
+    if (!scanner) {
+      const F = Html5QrcodeSupportedFormats;
+      scanner = new Html5Qrcode('reader', { formatsToSupport: [F.EAN_13, F.EAN_8, F.CODE_128, F.CODE_39, F.UPC_A, F.ITF, F.QR_CODE], experimentalFeatures: { useBarCodeDetectorIfSupported: true }, verbose: false });
+    }
+    await scanner.start({ facingMode: 'environment' }, { fps: 12, qrbox: (w, h) => ({ width: Math.floor(w * 0.85), height: Math.floor(Math.min(h, w) * 0.45) }) }, onCode, () => {});
+  } catch (err) {
+    $('cam').classList.remove('on');
+    toast('カメラを起動できませんでした。ブラウザのカメラ許可を確認してください。', 4000);
+  }
+}
+async function stopScan() {
+  $('cam').classList.remove('on');
+  try { if (scanner && scanner.isScanning) await scanner.stop(); } catch (e) {}
+}
+$('scan').addEventListener('click', () => { if ($('cam').classList.contains('on')) stopScan(); else startScan(); });
+$('camStop').addEventListener('click', stopScan);
+
+loadArrivals().catch((err) => { $('list').innerHTML = '<div class="empty">読み込めませんでした：' + esc(err.message) + '</div>'; });
+}
+</script>
+</body>
+</html>
